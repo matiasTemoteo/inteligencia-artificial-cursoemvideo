@@ -32,3 +32,19 @@ Por que aprender Inteligência Artificial?
    que dois terços das empresas pesquisadas, ou seja 66%,
    estão no processo de implementar IA ou têm intenções
    de faze-lo em breve.
+
+
+Assistente de IA do Curso Em Vídeo
+
+ - Criado para acessorar os alunos que estiverem fazendo o 
+   curso de IA, treinado com dados e informações do curso
+   em questão.
+
+ - https://www.cursoemvideo.link/helpia
+ - https://chatgpt.com/g/g-5lw3vTPpm-cev-curso-de-ia
+
+
+ - O assistente possui opções pre configuradas para auxiliar
+   os alunos, com revisões de aulas do curso, criação de 
+   exercícios e revisão de prompts.
+
