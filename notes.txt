@@ -1,0 +1,34 @@
+Por que aprender Inteligência Artificial?
+
+ - Potencial para transformar a maneira como realizamos
+   uma série de tarefas, economizando inúmeras horas de
+   esforço humano.
+
+ - Auxiliar a redigir texto como emails, resumos,
+   artigos e marketing.
+
+ - Auxiliar na codificação e obtenção de sugestões de
+   códigos e melhorias em software.
+   
+ - Se você for capaz de detalhar as etapas de uma tarefas
+   para uma IA de forma clara e lógica, existe uma boa chance de que a IA seja capaz de assumir essa tarefa para você.
+
+ - Em alguns casos, a IA pode até mesmo não apenas realizar
+   a tarefa, mas também fornecer um ponto de partida sólido
+   para tarefas mais repetitivas.
+
+ - Conforme pesquisa do MIT, que foi divulgada na conceituda
+   revista Science, inteligências artificiais que geram texto
+   podem ser muito úteis para tarefas simples do dia a dia,
+   como redigir emails ou criar relatórios breves.
+   O usar chatbots de IA, a produtividade aumenta em 40%,
+   enquanto a qualidade do trabalho melhora em 18%.
+
+ - Um estudo da IBM de 2022 revela que quase metade das
+   empresas do Brasil, especificamente 41%, faem uso de IA
+   em suas operações cotidianas. Os números indicam um
+   aumento significativo, especificamente no contexto
+   após a pandemia de Covid-19. Além disso, o estudo aponta
+   que dois terços das empresas pesquisadas, ou seja 66%,
+   estão no processo de implementar IA ou têm intenções
+   de faze-lo em breve.
