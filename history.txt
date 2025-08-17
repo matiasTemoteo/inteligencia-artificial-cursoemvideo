@@ -1,0 +1,28 @@
+O que é a IA?
+
+ - Desde suas origens na década de 1950, a IA evoluiu
+   significativamente e agora abrange uma série de técnicas
+   e tecnologias, incluindo aprendizado de máquina, processamento
+   de linguagem natural e visão computacional.
+
+ - A IA está se tornando cada vez mais comum em nossas vidas
+   cotidianas, alimentando tudo, desde assistentes virtuais como a Siri e a Alexa, e até carros autônomos e recomendações
+   de filmes na Netflix.
+ 
+
+Como funciona a IA?
+
+ - A IA opera através de aprendizado a partir de dados.
+
+ - Assim como os humanos aprendem com a experiência, os
+   sistemas de IA aprendem com os dados que processam.
+
+ - Isso é chamado de "aprendizado de máquina".
+
+ - Em um processo de aprendizado de máquina, o sistema
+   é aliemtnado com uma grande quantidade de dados e usa
+   algoritmos para identificar padrões nesses dados.
+
+ - Por exemplo, um sistema de IA pode aprender a identificar
+   imagens de gatos depois de analisar milhares de imagens
+   de gatos.

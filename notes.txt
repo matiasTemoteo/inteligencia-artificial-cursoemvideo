@@ -48,3 +48,14 @@ Assistente de IA do Curso Em Vídeo
    os alunos, com revisões de aulas do curso, criação de 
    exercícios e revisão de prompts.
 
+
+LLMs Localmente
+
+ - Uma ferramenta muito útil e interessante para rodar
+   modelos de IA localmente é o LLM Studio.
+
+ - Uma ferramente gratuita que permite instalar modelos
+   de diferentes empresas com diferentes propósitos.
+
+ - https://lmstudio.ai/
+
