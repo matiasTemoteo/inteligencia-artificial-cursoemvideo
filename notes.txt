@@ -104,7 +104,9 @@ Conclusão
    futuro.
 
 
-Máquinas são capazes de aprender
+Machine Learning
+
+ - Máquinas são capazes de aprender
 
  - Aprendizado de máquina, ou "Machine Learning" em inglês.
 
@@ -168,3 +170,34 @@ Deep Learning
    o mundo de maneira mais semelhante aos humanos, levando
    a inovações supreendentes na tecnologia de inteligência
    artificial.
+
+
+LLMs (Large Language Models)
+
+ - Modelo de Linguagem em Larga Escala.
+
+ - Os modelos de Linguagem de grande escala (LLMs) são
+   um tipo de inteligência artificial que são treinados
+   em grandes quantidades de dados de texto.
+
+ - Esses dados podem incluir livros, artigos, códigos e
+   outros formatos de texto.
+
+ - Os LLMs são capazes de aprender padrões e relacionamentos
+   no texto, o que os permite gerar texto semelhante ao 
+   humano, traduzir idiomas, escrever diferentes tipos de 
+   conteúdo criativo e responder às suas perguntas de forma
+   informativa.
+
+ - Os LLMs ainda estão em desenvolvimento, mas já têm o 
+   potencial de revolucionar a forma como interagimos com
+   a tecnologia.
+
+ - Por exemplo, os LLMs podem ser usados para criar
+   assistentes virtuais mais inteligentes, que podem
+   entender e responder melhor às nossas solicitações.
+
+ - Os LLMs também podem ser usados para criar ferramentas
+   de tradução mais precisas e eficientes.
+
+ 
