@@ -59,3 +59,20 @@ LLMs Localmente
 
  - https://lmstudio.ai/
 
+
+Aplicações da IA
+
+ - Assistentes virtuais: Siri, Alexa e Google Assistent IA
+   para entender nossas perguntas e fornecer respostas
+   relevantes.
+
+ - Carros autônomos: Veículos autônomos usam IA para
+   perceber o ambiente ao seu redor e tomar decisões
+   de direção.
+
+ - Sistemas de recomendação: Serviços como Netflix e Amazon
+   usam IA para sugerir filmes, músicas ou produtos com base
+   em nosso histórico de uso.
+
+ - Medicina: A IA é usada para analisar imagens médicas,
+   prever doenças e personalizar tratamentos.
