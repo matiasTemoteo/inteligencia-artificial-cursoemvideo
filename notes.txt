@@ -130,3 +130,41 @@ Máquinas são capazes de aprender
  - E resumo, o aprendizado de máquina é o coração pulsante
    que permite que a IA reaja e evolua em resposta ao mundo ao
    seu redor.
+
+
+Deep Learning
+
+ - Deep learning, ou "Aprendizado Profundo" em tradução livre.
+
+ - É uma subcategoria do aprendizado de máquina, que, por sua
+   vez, é uma vertente da inteligência artifical.
+
+ - O deep Learning é inspirado na estrutura e função do
+   cérebro humano, especificamente em uma construção chamada
+   redes neurais.
+
+ - Em Deep Learning, utiliza-se uma versão avançada dessas
+   redes, conhecida como redes neurais profundas.
+
+ - Estas redes possuem múltiplas camadas de neurônios artificiais,
+   permitindo a elas processar dados de forma hierárquica e 
+   complexa.
+
+ - Por exemplo, ao processar uma imagem, as camadas iniciais
+   podem detectar bordas, as camadas intermediárias podem
+   reconhecer formas e as camadas mais profundas podem
+   identificar objetos.
+
+ - O que torna o Deep Learning especial é sua capacidade
+   excepcional de reconhecer padrões em grandes conjuntos
+   de dados.
+
+ - Isso tornou possível avanços significativos em tarefas
+   complexas de IA, como reconhecimento de voz, tradução
+   automática e identificação de objetos em imagens.
+
+ - Em essência, o Deep Learning é uma ferramenta poderosa
+   que permite que máquinas "vejam", "ouçam" e "entendam"
+   o mundo de maneira mais semelhante aos humanos, levando
+   a inovações supreendentes na tecnologia de inteligência
+   artificial.
