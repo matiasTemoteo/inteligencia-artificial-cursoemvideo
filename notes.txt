@@ -76,3 +76,16 @@ Aplicações da IA
 
  - Medicina: A IA é usada para analisar imagens médicas,
    prever doenças e personalizar tratamentos.
+
+
+Desafios da IA
+
+ - Preocupações éticas sobre a privacidade dos dados e
+   o uso indevido da IA.
+
+ - Potencial perda de empregos devido à automação.
+
+ - Fornecimento de informações incorretas.
+
+ - Dificuldade de garantir que os sistemas de IA ajam
+   de maneira justa e imparcial.
