@@ -201,3 +201,33 @@ LLMs (Large Language Models)
    de tradução mais precisas e eficientes.
 
  
+Chatbot
+
+ - Simulando Conversas humanas
+
+ - Chatbos são pogramas de computador projetados para
+   simular conversas humanas.
+
+ - Geralmente alimentado por técnicas de processamento
+   de linguagem natural e aprendizado de máquina, permitindo-lhe
+   entender, responder e interagir com os usuários de forma
+   natural e contextualizada.
+
+ - Enquanto os chatbots mais simples operam com base em
+   regras predefinidas e respostas programadas, os alimentados
+   po IA podem aprender com interações anteriores, adaptar-se
+   ao longo do tempo e fornecer respostas mais personalizadas.
+
+ - Esses chatbots avançados podem entender variações na
+   linguagem, responder a perguntas não previstas e até
+   mesmo indentificar o humor ou intenção do usuário.
+
+ - Os chatbots são comumente usados em atendimento ao cliente,
+   plataformas de mensagens, websites e aplicativos, oferecendo
+   respostas rápidas, automação e suporte 24/7.
+
+ - Em resumo, chatbots são a interseção da IA com a comunicação
+   humana, tornando as interações digitais mais eficientes e
+   amigáveis.
+
+ - O ChatGPT e o Google Gemini são chatbots.
