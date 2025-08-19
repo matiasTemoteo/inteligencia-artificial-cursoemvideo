@@ -231,3 +231,33 @@ Chatbot
    amigáveis.
 
  - O ChatGPT e o Google Gemini são chatbots.
+
+
+NLP (Natural Language Processing)
+
+ - Processamento de Linguagem Natural (PLN)
+
+ - PLN, ou processamento de Linguagem Natural, é um subcampo
+   da inteligência artificial focado na interação entre
+   computadores e linguagem humana.
+
+ - Seu objetivo principal é permitir que máquinas entendam,
+   interajam e respondam à linguagem humana de uma maneira que
+   seja tanto valiosa quanto significativa.
+
+ - Usando as técnicas de PLN, sistemas de IA podem realizar
+   tarefas como tradução automática, análise de sentimentos,
+   resumos automáticos e até mesmo compreensão e geração de
+   texto complexo.
+
+ - Por exemplo, assistente como Siri e Alexa dependem
+   fortemente do PLN para entender e responder às solicitações
+   dos usuários.
+
+ - Em essência, o PLN busca construir pontes entre máquinas
+   e humanos atráves da linguagem, tornando possível a
+   comunicação fluida e a extração de informações valiosas
+   dos textos.
+
+ - É graças ao PLN que a IA pode "ler", "ouvir" e "falar"
+   conosco.
