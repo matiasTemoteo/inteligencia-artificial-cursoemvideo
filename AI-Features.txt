@@ -73,6 +73,17 @@ HuggingChat - https://huggingface.co/huggingchat
  - LLM
 
 
+Napkin AI - https://app.napkin.ai/
+
+ - Napkin.ai INC
+ - Imagens
+ - Foco em geração de imagen a partir de texto. Principalmente
+   gráficos, layouts, brainstorms e apresentações.
+   Uma vez gerada o draft da imagem, ainda é possível ajustar
+   antes de exportar aversão final.
+ - LLM
+
+
 FreePik - https://br.freepik.com/
 
  - Imagens e vídeos.
