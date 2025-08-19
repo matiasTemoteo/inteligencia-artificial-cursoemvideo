@@ -368,3 +368,41 @@ Prompt
 
  - Eles funcionam como uma espécie de "pergunta" ou
    "comando" que guia a máquina em sua resposta.
+
+
+ChatBot de IA Vs Buscador
+
+ - Embora ambos, um chatbot de IA e um buscador, operem
+   utilizando bases de dados para fornecer respostas e
+   interagir com os usuários, a maneira como eles acessam
+   e usam essas informações é fundamentalmente diferente.
+
+ - Os chatbots de IA, são treinados em um vasto conjunto
+   de dados de milhões de páginas da internet, mas eles
+   não têm a capacidade de acessar ou recuperar informações
+   em tempo real da internet após o treinamento. (Na época
+   do vídeo, hoje eles já possuem essa capacidade).
+
+ - Eles não "lembram" ou "sabem" informações específicas, em
+   vez disso, geram respostas com base nos padrões que
+   aprenderam durante o teinamento.
+
+ - Por outro lado, um buscador, como o Google Search, indexa
+   a web em tempo real e mantém um banco de dados atualizado
+   das páginas da web existentes.
+
+ - Quando você insere uma consulta, o buscador procura
+   em seu índice de páginas da web para econtrar as mais
+   relevantes e atualizadas informações para a sua pesquisa.
+  
+ - Diferentemente dos chatbots de IA, os buscadores têm
+   acesso a informações da internet e pódem fornecer dados
+   atualizados e específicos.
+
+ - Essa distinção é essencial quando se considera a 
+   precisão e a atualidade das informações fornecidas.
+
+ - Um chatbot de IA pode ser útil para fornecer respostas
+   gerais com base em padrões de linguagem, mas para
+   informações atualizadas ou específicas, um buscador
+   seria a ferramenta mais adequada.
