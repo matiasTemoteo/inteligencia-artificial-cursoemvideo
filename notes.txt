@@ -339,3 +339,32 @@ Tokens
 
  - Isso permite que eles processem texto de qualquer
    comprimento sem perder o contexto.
+
+
+Prompt
+
+ - Instruções para obtenção de resultados.
+
+ - No contexto da inteligência artificial, especialmente
+   em modelos de linguagem, um "prompt" é uma instrução
+   ou estímulo dado ao sistema para obter uma resposta
+   ou um comportamento específico.
+
+ - Geralmente apresentado na forma de um texto ou frase,
+   o prompt serve como gatilho para o modelo de IA,
+   indicando o tipo de informação ou resposta que o usuário
+   deseja.
+
+ - Por exemplo, ao interagir com um modelo de linguagem
+   como o GPT da OpenAI, se você inserir o prompt "Traduza
+   a seguinte frase para o espanhol:", o modelo entenderá que
+   deve realizar uma tarefa de tradução com base no texto
+   subsequente fornecido (em língua portuguesa).
+
+ - Prompts são essenciais para direcionar e moldar as
+   saídas de modelos de IA, garantindo que as respostas
+   sejam relevantes e de acordo com as intenções do
+   usuário.
+
+ - Eles funcionam como uma espécie de "pergunta" ou
+   "comando" que guia a máquina em sua resposta.
