@@ -261,3 +261,81 @@ NLP (Natural Language Processing)
 
  - É graças ao PLN que a IA pode "ler", "ouvir" e "falar"
    conosco.
+
+
+Tokens
+
+ - Tijolos fundamentais
+
+ - No âmbito da inteligência artificial, especialmente
+   quando se trata de PLN, um "token" refere-se a uma
+   unidade individual de informação ou dado.
+
+ - Geralmente, ao trabalhar com texto, um token pode ser
+   uma palavra, uma frase ou até mesmo um caractere,
+   dependendo do contexto.
+
+ - Por exemplo, ao separar em tokens a frase "Aprendizado
+   de máquina é fascinante", podemos obter os tokens:
+   "Aprendizado", "de", "máquina", "é" e "fascinante".
+
+ - O processo de separar um texto em tokens depéndendo
+   do contexto inserido, chama-se "tokenização".
+
+ - A tokenização é um processo fundamental em muitos
+   processos de PLN.
+
+ - Ao converter os textos em tokens, os algoritmos de
+   IA podem analisar, compreender e processar a linguagem
+   humana de maneira mais eficaz.
+
+ - Essa transformação ajuda na tarefa de identificar
+   padrões, compreeder contextos e realizar operações,
+   como análise de sentimentos, tradução automática e muitas
+   outras aplicações relacionadas ao texto.
+
+ - Portanto, no contxto da IA, tokens são os "tijolos"
+   fundamentais que permitem que máquinas entendam e
+   manipulem a linguagem humana.
+
+ - O ChatGPT 3 processa 4096 tokens por solicitação.
+   Isso inclui tanto o prompt quanto a resposta. (No
+   momento do vídeo). O ChatGPT-5 (versão atual) pode
+   lidar com 16000 (16k) tokens por solicitação na sua
+   versão gratuita e 200000 (200k) tokens na sua versão
+   paga.
+
+ - Por exemplo, se você solicitar ao ChatGPT 3 para gerar
+   um poema de 4097 palavras, ele será capaz de gerar as 
+   primeiras 4096 palavras, mas não poderá gerar a útlima
+   palavra.
+
+ - O limite de tokens foi imposto pela OpenAI para evitar
+   o uso excessivo de recursos.
+
+ - O ChatGPT 3 é um modelo de linguagem grande e complexo,
+   e processar um grande número de tokens pode exigir uma
+   quantidade significativa de memória e processamento.
+
+ - O ChatGPT 4 processa até 32768 (23.7k) tokens por
+   solicitação. Isso inclui tanto o prompt quanto a
+   resposta.
+
+ - O ChatGPT 4 tem duas variantes: ChatGPT 4-8K que possui
+   um limite de 8192 (8.1) tokens e o ChatGPT 4-32K que
+   possui um limite de 32768 (32.7K) tokens.
+
+ - O Gemini processa um número ilimitado de tokens por
+   solicitação. Isso significa que ele pode gerar texto
+   de qualquer comprimento, desde um único token até um
+   texto de milhões de palavras. (No momento do vídeo).
+
+ - o Gemini é capaz de processar um número ilimitado de
+   tokens porque é um modelo de linguagem de transformador.
+
+ - Os transformadores são um tipo de modelo de linguagem
+   que usa um mecanismo chamado atenção para se concentrar
+   nas partes mais importantes do texto.
+
+ - Isso permite que eles processem texto de qualquer
+   comprimento sem perder o contexto.
