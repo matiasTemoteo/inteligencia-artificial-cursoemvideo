@@ -1,0 +1,28 @@
+Claude - https://claude.ai/
+
+ - Chat, texto, imagens, referências.
+
+
+ChatGPT - https://chatgpt.com/
+
+ - Chat, texto, imagens, videos, referências.
+
+
+FreePik - https://br.freepik.com/
+
+ - Imagens e vídeos.
+
+
+HuggingChat - https://huggingface.co/huggingchat
+
+ - (Inativo)
+
+ - Texto e foco na personalização e compartilhamento de
+   modelos
+
+
+Perplexity - https://www.perplexity.ai/
+
+ - Texto e referências
+
+
