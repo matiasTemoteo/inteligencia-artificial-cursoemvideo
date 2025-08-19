@@ -1,28 +1,80 @@
 Claude - https://claude.ai/
 
- - Chat, texto, imagens, referências.
+ - Anthropic
+ - ChatBot, texto, imagens, referências.
+ - Foco em dialogo, respostas claras e consisas.
+ - Usa o Claude como modelo de IA
+ - LLM
 
 
 ChatGPT - https://chatgpt.com/
 
- - Chat, texto, imagens, videos, referências.
+ - OpenAI
+ - ChatBot, texto, imagens, videos, referências.
+ - Foco em textos específicos ou mais criativos como
+   códigos, poemas, músicas e tradução de idiomas.
+ - Usa o GPT-5 como modelo de IA
+ - LLM
 
 
-FreePik - https://br.freepik.com/
+Gemini - https://gemini.google.com/
 
- - Imagens e vídeos.
+ - Google
+ - ChatBot, texto, imagens, vídeos, referências.
+ - Foco em respostas informativas e abrangentes como
+   notícias e ideais abertas e desafiadoras.
+ - Usa o Gemini como modelo de IA
+ - LLM
+
+
+Meta AI - https://www.meta.ai/
+
+ - Meta
+ - ChatBot, texto, imagens, vídeos, referências.
+ - Foco em dialogo, geração de texto, respostas contextuais e
+   codificação.
+ - Usa o Llama 4 como modelo de IA
+ - LLM
+
+
+Perplexity AI - https://www.perplexity.ai/
+
+ - Perplexity
+ - ChatBot, Texto e referências
+ - Foco em notícias, resumo informátivo e construção de
+   texto conciso e completo, além de eficiência em
+   estudos e usos acadêmicos.
+ - Usa Modelos como GPT-4, Claude 3 e Mistral 8X7B.
+ - LLM
+
+
+Le Chat - https://chat.mistral.ai/chat
+
+ - Mistral
+ - ChatBot, Texto, Imagens e Vídeos
+ - Foco em contextualização e personalização por parte dos
+   usuários.
+ - Usa os modelos da Própria Mistral (Mistral 7B, Mistral 8X7B e
+   Mistral Large 2)
+ - LLM
 
 
 HuggingChat - https://huggingface.co/huggingchat
 
  - (Inativo)
 
+ - Hugging Face
+ - Código Aberto
+ - ChatBot, Texto, Imagens e Vídeos.
  - Texto e foco na personalização e compartilhamento de
-   modelos
+   modelos. Permite criar modelos individuais a partir de
+   outros modelos do mercado.
+ - Usa modelos como Llama, Mistral, DeepSeek.
+ - LLM
 
 
-Perplexity - https://www.perplexity.ai/
+FreePik - https://br.freepik.com/
 
- - Texto e referências
+ - Imagens e vídeos.
 
 
