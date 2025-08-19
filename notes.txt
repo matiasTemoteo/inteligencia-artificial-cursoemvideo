@@ -406,3 +406,64 @@ ChatBot de IA Vs Buscador
    gerais com base em padrões de linguagem, mas para
    informações atualizadas ou específicas, um buscador
    seria a ferramenta mais adequada.
+
+
+IAs de Texto Generativo
+
+ - As IAs de texto genrativo, bastante populares hoje em
+   dia, têm "cperebros" compostos por bilhões de "neurônios"
+   artificiais.
+
+ - Esse arranjo de neurônios é o que chamamos de
+   arquitetura transformadora, um tipo complexo de rede
+   neural. Aqui estão alguns pontos chaves para entender:
+
+   As IAs são como grandes equações matemáticas: Em vez de
+   uma simples equação como "f(x) = x^2", imagine uma função
+   com milhares de variáveis que resulta em milhares de
+   possíveis respostas.
+
+   Essa é a essência do que essas IAs estão fazendo.
+
+ - IAs entendem sentenças através de "tokens": As IAs
+   dividem o texto em pedaços menores chamados tokens, que
+   podem ser frases, palavras ou subpalavras. Por exemplo,
+   a frase "Eu não gosto" pode ser dividida em "Eu", "não"
+   e "gosto".
+
+   Cada token é então convertido em uma série de números
+   para que a IA possa precessa-lo.
+
+   IAs preveem o próximo token na sequência: Baseando-se
+   nos tokens anteriores, as IAs tentam prever o próximo
+   token da sequência. Por exemplo, depois de "Eu não
+   gosto de", a IA poderia prever a palavra "maçãs".
+
+   Cada nova palavra que a IA escrever será baseada no
+   que ela já viu e já escreveu antes.
+
+   IAs analisan todos os tokens simultaneamente: Ao
+   contrário do humanos que leem da esquerda para a
+   direita ou da direita para a esquerda, as IAs
+   analisam todos os tokens ao mesmo tempo.
+
+ - É importante notar que as palavras "pensar", "cérebro"
+   e "neurônio" são formas de nos ajudar a entender melhor
+   o que está acontecendo, mas são metáforas.
+
+   Estes modelos não estão realmente pensando, são apenas
+   funções matemáticas complexas. Eles não tem cérebros, mas
+   sim redes neurais artificiais. E eles não tem neurônios
+   biológicos, mas sim representações numéricas.
+
+   A natureza exata dessas IAs é um tópico ativo de
+   pesquisa e debate filosófico. É fácil cair na
+   armadilha de pensar nelas como seres pensantes semelhantes
+   aos humanos, especialmente com a forma como são
+   retratadas na méidia.
+
+   Entretanto, se achar útil pensar na IA como um "ser"
+   para entender como ela funciona, não há problema nisso.
+
+   Muitas pessoas fazem isso e pode ser um método eficaz
+   de aprendizado.
