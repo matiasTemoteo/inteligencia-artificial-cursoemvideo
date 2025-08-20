@@ -59,6 +59,18 @@ Le Chat - https://chat.mistral.ai/chat
  - LLM
 
 
+NotebookLm - https://notebooklm.google.com/
+
+ - Google
+ - ChatBot, Texto, audio, imagem
+ - Foco em criar chats de contexto baseado em informações
+   customizadas oriundas de texto ou arquivos informados.
+   Sendo capaz de gerar imagens, audio ou documentos acerca
+   do conteúdo em questão.
+ - Usa o modelo Gemini
+ - LLM
+
+
 HuggingChat - https://huggingface.co/huggingchat
 
  - (Inativo)
