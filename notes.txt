@@ -467,3 +467,64 @@ IAs de Texto Generativo
 
    Muitas pessoas fazem isso e pode ser um método eficaz
    de aprendizado.
+
+
+Engenharia de Prompt
+
+ - Ato de ensinar uma inteligência artificial (IA) a 
+   realizar uma tarefa específica é frequentemente
+   referido como "prompting".
+
+ - Esse processo é um pouco como dar instruções a um
+   amigo: fornecemos à IA uma série de orientações
+   (o "prompt") e então ela se esforça para executar a
+   tarefa solicitada.
+
+   Estes prompts podem ser tão simples quanto uma única
+   pergunta: "Qual é o clima hoje?".
+
+   Ou tão complexo quanto um trecho inteiro de texto com
+   vários parágrafos.
+
+ - Imagine que você esta fazendo uma pergunta a um amigo
+   muito inteligente, ou pedindo a ele para fazer algo.
+
+ - Essa é basicamente a essência do "prompting" en IA:
+   estamos dando à máquina uma tarefa para resolver e
+   aguardando sua resposta, que será baseada no que ela
+   aprendeu durante seu treinamento.
+
+ Exemplos:
+
+   - Um exemplo básico de uma instrução seria perguntar
+     diretamente algo como: "Quanto é 1000 * 6000?".
+
+   - Digamos que você está lendo um artigo sobre a indepen-
+     dência do Brasil e quer rapidamente capturar as ideias
+     principais do artigo, então você mostra para a IA o
+     que você está lendo e pede um resumo.
+
+     O prompt para essa solicitação poderia ser: "Resuma o
+     texto acima em uma única sentença."
+
+   - Podemos usar a seguinte solicitação para reposcionar
+     nomes em uma lista:
+
+     "Temos uma lista de nomes de usuários contendo o
+      primeiro e o último nome. Precisamos que os nomes
+      fiquem no formato: Último, Primeiro'".
+
+   - Este é um exemplo mais complicado, Nele, você vai
+     perceber como o modelo pode ir além das instruções.
+     Não há uma indicação explicita de como deve ser a
+     mudança para o e-mail e telefone, mas a IA fará a
+     substituição de maneira adequada.
+
+     "Leia o email a seguir e remova todas as informações
+      de identificação pessoal, substituindo-as com o espaço
+      reservado apropriado. Por exemplo, substitua o nome
+      'Gustavo Guanabara' por '[NOME]' e garanta que todas
+      as informações pessoais foram substituídas apropria-
+      damente".
+
+
