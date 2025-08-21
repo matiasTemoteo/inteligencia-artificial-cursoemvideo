@@ -11,7 +11,8 @@ Por que aprender Inteligência Artificial?
    códigos e melhorias em software.
    
  - Se você for capaz de detalhar as etapas de uma tarefas
-   para uma IA de forma clara e lógica, existe uma boa chance de que a IA seja capaz de assumir essa tarefa para você.
+   para uma IA de forma clara e lógica, existe uma boa chance
+   de que a IA seja capaz de assumir essa tarefa para você.
 
  - Em alguns casos, a IA pode até mesmo não apenas realizar
    a tarefa, mas também fornecer um ponto de partida sólido
@@ -644,7 +645,8 @@ Showing Examples
    - Tomemos como exemplo a situação em que estamos tentando
      classificar o feedback do cliente como positivo ou nega-
      tivo. Apresentamos ao modelo três exemplos de feedbacks'
-     positivos ou negativos e, em seguida, mostramos a ele um novo comentário ainda não classificado. O modelo, ao ob-
+     positivos ou negativos e, em seguida, mostramos a ele um 
+     novo comentário ainda não classificado. O modelo, ao ob-
      servar os três exemplos iniciais classificados como posi-
      tivos ou negativos, utiliza essa informação para classi-
      ficar o novo comentário.
