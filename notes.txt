@@ -528,3 +528,102 @@ Engenharia de Prompt
       damente".
 
 
+Role Prompting
+
+ - O Prompting de Atuação é uma técnica utilizada no
+   controle do estilo de texto gerado por inteligência
+   artificial. Essa técnica é muito versáril e oferece
+   várias aplicações interessantes.
+
+ - Melhoria de precisção: Pode ser usado para aumentar
+   a precisão da IA em tarefas específicas, como resolver
+   problemas matemáticos.
+
+ - Controle de estilo: Implementar o Prompting de 
+   atuação é simples e envolve instruir a IA a assumir
+   um papel específico, como "incorporar um crítico de
+   moda" ou "agir como um especialista". Ao fazer isso,
+   a IA pode escrever com o estilo ou tom desejado e até
+   mesmo alterar a profundidade das informações apresentadas.
+
+ - Em resumo, o Prompting de Atuação é uma abordagem
+   poderosa para moldar a maneira como a IA responde,
+   tornando-a uma ferramenta útil em várias aplicações.
+
+ Exemplos:
+
+   - Vamos a um exemplo simples, sem usar o Prompting de
+     atuação. Vamos pedir uma avaliação para uma hambur-
+     gueria.
+
+     "Escreva uma avaliação sobre uma hamburgueria chamada
+      Guanabara".
+
+   - O resultado obtido com o exemplo anterior já é
+     muito bom, mas vamos ver o que acontece quando a
+     IA assume o papel de crítico gastronômico.
+
+     "Você é um crítico gastronômico. Escreva uma avali-
+      ação sobre uma hamburgueria chamada Guanabara".
+
+   - Agora vamos dar um passo adiante e faze-lo assumir
+     o papel de redator do guia Michelin.
+
+     "Você é um crítico gastronômico que escreve para o
+      Guia Michelin. Escreva uma avaliação sobre uma
+      hamburgueria chamada Guanabara".
+
+ - Ao usar uma IA para escrever um e-mail, é importante
+   pensar no "trabalho" que você quer que ele faça. O 
+   jeito como o e-mail vai sair depende do que você
+   pedir para o robô fazer.
+
+ - Por exemplo, digamos que você precisa mandar um e-mail
+   para um cliente avisandp que vai haver um atraso na
+   entrega de um produto por causa de problemas no trans-
+   porte. Você quer que o cliente entenda a situação, mas
+   também não quer que ele perca a confiança no seu ser-
+   viço. Dependendo de como você "programa" na IA, o e-mail
+   pode ter estilos diferentes.
+
+ Exemplos:
+
+   - Por exemplo, você deseja que a IA se comporte como
+     um especialista em comunicação, cujo estilo pode ser
+     claro, profissional e direto ao ponto.
+
+     "Você é um especialista em comunicação. Elabore um
+      e-mail para seu cliente avisando sobre atraso no
+      cronograma de entrega devido a problemas logísticos".
+
+   - Peça para se comportar como um especialista de marke-
+     ting para se apoiar mais na persuasão, na positividade
+     e na construção de relacionamento.
+
+     "Você é um especialista em marketing. Elabore um e-mail
+      para um cliente avisando sobre um atraso no cronograma
+      de entrega devido a problemas logísticos".
+
+   - Se comportando como um representante de atendimento
+     ao cliente, podemos ter um resultado mais relacional
+     e orientado para soluções.
+
+     "Você é um representante de atendimento ao cliente.
+      Elabore um e-mail para um cliente avisando sobre um
+      atraso no cronograma de entrega devido a problemas
+      logísticos".
+
+ - A técnica de definir o "papel" é uma estratégia eficaz
+   para moldar o que os modelos de IA generativos produzem.
+
+ - Isso nos permite ajustar o estilo, o tom e a complexidade
+   do texto gerado, tornando-o mais apropriado para diferentes
+   situações ou públicos.
+
+ - Seja ao criar um e-mail, redigir uma avaliação ou resolver
+   um problema matemático, essa técnica pode melhorar siginifi-
+   cativamente a qualidade e a precisão do resultado.
+
+ - À medida que avançamos no entendimento das capacidades da
+   IA, a definição de "papel" continuará sendo uma tática
+   crucial na engenharia de prompt.
