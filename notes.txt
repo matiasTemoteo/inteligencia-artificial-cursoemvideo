@@ -783,3 +783,82 @@ Combinando Técnicas
  - Enquanto você continua testando e aprimorando seus prompts,
    pense em como diferentes métodos podem ser combinados para
    conseguir o resultado que você deseja.
+
+
+Formalizing Prompts
+
+ - Existem algumas partes diferentes em uma pergunta que vai
+   ver repetidas vezes. A seguir, veremos a lista das partes
+   relevantes.
+
+   * Um papel (agir como um engenheiro ou um professor)
+   * Uma instrução ou tarefa (o que fazer)
+   * Uma pergunta (qual é a capital do Brasil?)
+   * Um contexto (informações adicionais que ajudam a entender
+     a pergunta)
+   * Exemplos (algumas amostras para guiar a resposta)
+
+ - Nem todas essas partes aparecem em todos os prompts. E
+   quando algumas delas aparecem, não há um ordem padrão.
+
+ - Por exemplo, os dois prompts a seguir, que contêm um papel,
+   uma instrução e contexto, farão mais ou menos a mesma coisa.
+
+ Exemplo 1:
+
+   "Você é um médico. Leia este histórico médico e preveja os
+    riscos para o paciente.
+    
+    10 de março de 2000: Braço direito fraturado jogando fute-
+    bol. Tratado com gesso.
+
+    25 de maio de 2010: Diagnosticado com hipertensão. Lisino-
+    pril prescrito.
+
+    15 de setembro de 2015: Desenvolveu pneumonia. Tratado com
+    antibióticos e recuperou-se totalmente em poucas semanas.
+
+    8 de setembro de 2023: Sofreu uma consussão em um acidente
+    de carro. Internado no hospital e monitorado por 24 horas.
+    ".
+
+ Exemplo 2:
+
+   "10 de março de 2000: Braço direito fraturado jogando fute-
+    bol. Tratado com gesso.
+
+    25 de maio de 2010: Diagnosticado com hipertensão. Lisino-
+    pril prescrito.
+
+    15 de setembro de 2015: Desenvolveu pneumonia. Tratado com
+    antibióticos e recuperou-se totalmente em poucas semanas.
+
+    8 de setembro de 2023: Sofreu uma consussão em um acidente
+    de carro. Internado no hospital e monitorado por 24 horas.
+
+    Você é um médico. Leia este histórico médico e preveja os
+    riscos para o paciente.
+    ".
+
+ - Nós preferimos o segundo exemplo, já que a instrução é a
+   última parte dele. Isso é melhor porque, no primeiro exem-
+   plo, o modelo de linguagem pode acabar escrevendo mais con-
+   texto ao ínves de seguir a instrução dada.
+
+ - Se receber a primeira pergunta, o modelo pode acrescentar
+   uma nova linha, como: "25 de outubro de 2023: Consulta de
+   acompanhamento agendada com neurologista para avaliar a
+   recuperação da consussão".
+
+ - Entender a estrutura e os componentes de um prompt é muito
+   importante para usar bem os modelos de linguagem de IA.
+
+ - As partes principais de um prompt incluem um papel, uma
+   instrução ou tarefa, uma questão, contexto e exemplos.
+
+ - Nem todos os prompts vão ter todos esses elementos, e a
+   ordem deles pode variar.
+
+ - No entanto, é geralmente melhor colocar a instrução no
+   final para garantir que o modelo se concentre em execu-
+   tar a tarefa, em vez de apenas adicionar mais informações.
