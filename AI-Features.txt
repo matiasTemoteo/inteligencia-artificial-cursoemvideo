@@ -96,6 +96,15 @@ Napkin AI - https://app.napkin.ai/
  - LLM
 
 
+Ideogram AI - https://ideogram.ai/t/explore
+
+ - Ideogram AI
+ - Imagens
+ - Foco em geração de imagens baseado em prompt, outras imagens
+   e também útil para refatoração de prompts de imagens.
+ - LLM
+
+
 FreePik - https://br.freepik.com/
 
  - Imagens e vídeos.
