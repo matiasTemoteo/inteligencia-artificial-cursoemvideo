@@ -862,3 +862,66 @@ Formalizing Prompts
  - No entanto, é geralmente melhor colocar a instrução no
    final para garantir que o modelo se concentre em execu-
    tar a tarefa, em vez de apenas adicionar mais informações.
+
+
+Chatbot (Talking with robots)
+
+ - No mundo da inteligência artificial, existem vários tipos
+   de modelos de linguagem que servem para diferentes objetivos.
+
+ - Os modelos mais usados neste curso são o ChatGPT e p Gemini,
+   que são robôes de conversa que "lembram" das mensagens ante-
+   riores para que você possa ter um diálogo com ele.
+
+ - Porém esses chatbots não são o único tipo de modelo.
+
+ - Temos outros exemplos como algumas APIs, que, ao contrá-
+   rio dos chatbots, não tem "memória", ou seja, a cada cha-
+   mada você deve incluir o prompt de preparação novamente
+   (ex.: prompt de atuação).
+
+ - Chatbots como o chatGPT são feitos para simular conversas
+   interativas. Para ter uma conversa, eles precisam "lembrar"
+   de todo os histórico de conversa.
+
+ - Isso sginifica que toda vez que você manda uma nova men-
+   sagem, eles releem todas as mensagens anteriores que vocês
+   dois enviaram, já que eles não tem uma memória de verdade.
+
+ - Essa "memória" de conversa é o único fator importante
+   que os diferencia de modelos que não são chatbots.
+
+ Tokens
+
+ - ChatGPT e outros modelo de IA não leem palavras do mesmo
+   jeito que nós.
+
+ - Enquanto nós lemos a frase "Eu não gosto de ovos" palavra
+   por palavra, eles podem dividir isso em sua própria versão
+   de palavras e ler assim: Eu, não, gosto, de, ovos.
+
+ - Essas "palavras" são chamadas de tokens, e quase toda IA
+   moderna usa isso. Cada token vira uma lista de números
+   para a IA conseguir processar.
+
+ - Você não precisa saber por que as IAs usam tokens, mas é
+   importante entender isso quando se fala de comprimento de
+   contexto.
+
+ Comprimento de Contexto
+
+  - Comprimento de contexto se refere à quantidade de texto que
+    um modelo de linguagem pode considerar ao gerar uma res-
+    posta.
+
+ - Tanto para chatbots quanto para outros modelos, existe um
+   limite máximo.
+
+ - Se a conversa ou texto ultrapassar esse limite, o modelo
+   não vai conseguir "lembrar" de toda a conversa na hora de
+   responder. Por isso as vezes é preciso repetir informações
+   importantes.
+
+ - Escolher qual IA usar levando em consideração o número de
+   tokens, as vezes é um equilibrio entre preço e a neces-
+   sidade de um contexto mais longo.
