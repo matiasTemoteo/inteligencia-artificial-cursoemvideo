@@ -708,3 +708,78 @@ Showing Examples
    de acordo, tornando-se um método preferido em relação às
    instruções sem exemplos na maioria dos cenários.
 
+
+Combinando Técnicas
+
+ - Anteriormente, vimos que as instruções podem ser direfentes
+   em formato e complexidade.
+
+ - Essas instruções pode conter contexto, diretrized e vários
+   exemplos de entradas e saídas.
+
+ - Até agora, só olhamos para tipos separados de instruções.
+   Juntar essas diferentes técnicas pode resultar em instru-
+   ções mais eficazes.
+
+ Exemplo 1 (papeis e Instruções):
+
+   - Você pode combinar o papel que a inteligência artificial
+     vai desempenhar com comandos específicos para fazer pergun-
+     tas mais complicadas.
+
+   - Por exemplo, você pode pedir para a IA agir como um histo-
+     riador e, ao mesmo tempo, dar instruções para uma tarefa
+     específica.
+
+    "Você é um historiador especializado na hístória do Brasil.
+     Escreva um breve resumo dos principais eventos e resul-
+     tados da independência do país."
+
+ Exemplo 2 (Contexto, instruções e exemplos):
+
+   - Vamos tentar classificar Tweets como positivos ou nega-
+     tivos.
+     
+   - O contexto é dado pela explicação sobre o Twitter
+     e a tarefa de classificar tweets.
+
+   - A instrução é dada na frase "Certifique-se de classificar
+     o último tweet corretamente".
+
+   - Os exemplos são mostrados com dois tweets, um positivo e
+     um negativo.
+
+   - A expectativa é que a inteligência artificial use essa
+     combinação de contexto, instruções e exemplos para clas-
+     sificar o último tweet corretamente.
+
+   "O Twitter é uma plataforma de mídia social onde os usuá-
+    rios podem postar mensagens curtas chamadas 'tweets'. Os
+    tweets podem ser positivos ou negativos, e gostaríamos de
+    poder classifica-los como positivos ou negativos. Abaixo
+    seguem alguns exemplos de tweets positivos e negativos.
+    Certifique-se de classificar o último tweet corretamente".
+
+    "
+    T: Tweet: 'Que dia lindo!'
+    P: Este tweet é positivo ou negativo?
+    R: positivo
+
+    T: Tweet: 'Eu odeio chuva'
+    P: Este tweet é positivo ou negativo?
+    R: negativo
+
+    T: Tweet: 'Adoro as aulas do Gusatavo Guanabara'
+    P: Este tweet é positivo ou negativo?
+    R:
+    ".
+
+ - A combinação de diferentes estratégias de prompting pode
+   levar a resultados mais poderosos e eficazes.
+
+ - Quase todas as perguntas que você fizer vão misturar vá-
+   rias técnicas.
+
+ - Enquanto você continua testando e aprimorando seus prompts,
+   pense em como diferentes métodos podem ser combinados para
+   conseguir o resultado que você deseja.
