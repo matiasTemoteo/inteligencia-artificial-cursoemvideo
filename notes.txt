@@ -627,3 +627,82 @@ Role Prompting
  - À medida que avançamos no entendimento das capacidades da
    IA, a definição de "papel" continuará sendo uma tática
    crucial na engenharia de prompt.
+
+
+Showing Examples
+
+ - Outra estratégia de prompt é a chamada "prompting com
+   poucos disparos" (few-show prompting), que basicamente
+   consiste em fornecer ao modelo de linguagem alguns exem-
+   plos do que se espera que ele faça.
+
+ - Esse tipo de instrução permite que a IA aprenda com base
+   nesses poucos exemplos.
+
+ Exemplos:
+
+   - Tomemos como exemplo a situação em que estamos tentando
+     classificar o feedback do cliente como positivo ou nega-
+     tivo. Apresentamos ao modelo três exemplos de feedbacks'
+     positivos ou negativos e, em seguida, mostramos a ele um novo comentário ainda não classificado. O modelo, ao ob-
+     servar os três exemplos iniciais classificados como posi-
+     tivos ou negativos, utiliza essa informação para classi-
+     ficar o novo comentário.
+
+     "Aprenda com o modelo a seguir e complete a avaliação
+      da última linha.
+       - Ótimo produto: positivo
+       - Não funcionou muito bem: negativo
+       - Super útil, vale a pena: positivo
+       - Não funciona:
+      ".
+
+ - Um caso de uso fundamental para a instrução com poucos
+   exemplos é quando você precisa que a saída seja estruturada
+   de uma forma específica que é defícil de explicar ao modelo.
+
+ - Para entender isso, considere o próximo exemplo.
+
+ Exemplos:
+
+   - Vamos supor que você esteja realizando uma análise econô-
+     mica e precise compilar os nomes e profissões de cidadãos
+     conhecidos em cidades vizinhas, analizando artigos de jor-
+     nais locais. Você quer que o modelo leria cada artigo e 
+     gere uma lista de nomes e ocupações no formato: Primeiro
+     e último nomes [PROFISSÃO]. Para fazer o modelo executar
+     esta tarefa, você precisa fornecer alguns exemplos.
+
+     "Aprenda como o modelo abaixo
+
+     (forneça o modelo em texto)
+
+     1. Bianca Lobo [ATRIZ]
+     2. Ramiro Lobo [ENGENHEIRO DE SOFTWARE]
+     3. Michelle Santos [PSICÓLOGA]
+     ".
+
+     Após o modelo ter sido fornecido, podemos informar o 
+     texto real que queremos que ele análise.
+
+     "Morador da cidade Gustavo Guanabara, um brilhante profes-
+     sor, criou um canal de educação no Youtube e ficou famoso
+     no mundo inteiro. Camila Lobo, uma jovem programadora,
+     criou um aplicativo de investimentos na bolsa de valores e
+     Kauê Linden, um famoso publicitário, é conheido por sua
+     popular agência de marketing.
+     
+     Baseado nos textos e exemplos acima, liste os nomes dos
+     moradores da cidade e suas profissões. Use o formato:
+     Nome [PROFISSÃO].
+     ".
+
+ - O uso de instruções com poucos disparos (few-shot prompting)
+   é uma estratégia eficaz que pode orientar o modelo a gerar
+   respostas precisas e bem estruturadas.
+     
+ - Ao fornecer múltiplos exemplos, esse método permite que o
+   modelo compreenda o formato de saída desejado e responda
+   de acordo, tornando-se um método preferido em relação às
+   instruções sem exemplos na maioria dos cenários.
+
