@@ -925,3 +925,64 @@ Chatbot (Talking with robots)
  - Escolher qual IA usar levando em consideração o número de
    tokens, as vezes é um equilibrio entre preço e a neces-
    sidade de um contexto mais longo.
+
+
+Prompt Preparation
+
+ Iniciando a Conversa
+
+ - Você pode definir a estrutura e o estilo de uma conversa
+   usando sua primeira pergunta para "preparar" um chatbot.
+
+ - Isso te da um controle mais detalhado sobre toda a conver-
+   sa. Vamos ver como podemos organizar e dar estilo à conver-
+   sa usando uma pergunta inicial, com alguns exemplos.
+
+ Dando Estilo à Conversa
+
+ - Um exemplo divertido de como dar estilo a uma conversa é
+   fazer a IA falar como um palhaço. Vamos usar uma pergunta
+   que define um papel para preparar o chatbot. Experimente
+   digitar essas perguntas no ChatGPT.
+
+ Exemplo 1:
+
+   "Agora você é o palhaço Guaná. Sempre fale como um palhaço.
+    Comece se apresentando".
+
+ - Para o resto da conversa, a IA deve falar como um palhaço.
+   Embora talvez não seja muito útil ter uma IA que fale como
+   um palhaço, esse exemplo mostra que preparar o chatbot com
+   um prompt inicial pode ser muito eficaz para controlar o
+   estilo da conversa.
+
+ Estruturando a Conversa
+
+  - Além de dar estilo às respostas da IA, também podemos
+    controlar a estrutura delas. Por exemplo, considere o
+    prompt inicial abaixo.
+
+ Exemplo 2:
+
+   "Por favor, atue como assistente de redação. Cada vez que
+    eu lhe der um texto para revisão, responda neste formato:
+
+    Nível de redação: (por exemplo, ensino médio, faculdade)
+
+    Bem escrito: (sim, não ou algo assim)
+
+    Conselhos de redação: Conselhos de formato livre sobre a
+    redação.
+
+    Se você entendeu, basta dizer 'SIM'
+    ".
+
+ - Ao definir um formato específico para as respostas da IA,
+   os usuários podem receber informações de forma consistente
+   e organizada.
+
+ - Isso é especialmente útil em aplicações como assistência
+   na escrita, onde um feedback estruturado pode ajudar a
+   melhorar, e na gestão de projetos, onde a IA pode ser 
+   usada para acompanhar tarefas, fornecer atualizações e
+   gerenciar cronogramas.
