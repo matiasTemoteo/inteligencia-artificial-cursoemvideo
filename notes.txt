@@ -1088,3 +1088,23 @@ Armadilhas dos LLMs
    - Assim, é crucial estar atento a essa limitação ao utili-
      zar essas ferramentas para tarefas que demandam precisão
      e confiabilidade nas informações fornecidas.
+
+ Matemática
+
+   - Apesar de suas capacidades avançadas, os LLMs frequen-
+     temente têm dificuldades com tarefas matemáticas e po-
+     dem fornecer respostas incorretas (mesmo em algo tão
+     simples quanto multiplicar dois números).
+
+   - Isso acontece porque são treinados em grandes volumes
+     de texto, e a matemática pode exigir uma abordagem
+     diferente.
+
+   - O problema com a matemática pode ser parcialmente ali-
+     viado ao usar um LLM com ferramentas adicionais, que 
+     combinam as capacidades de um LLM com ferramentas espe-
+     cializadas para tarefas como matemática.
+
+   - Dessa forma, você fica mais ciente de que, apesar de suas
+     habilidades em linguagem, esses modelos têm suas limita-
+     ções quando se trata de cálculos matemáticos.
