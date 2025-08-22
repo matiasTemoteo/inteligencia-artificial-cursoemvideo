@@ -1057,3 +1057,34 @@ Armadilhas dos LLMs
  - Estes são LLMs que têm capacidade de pesquisar na inter-
    net e em outras fontes para fornecer informações mais pre-
    cisas.
+
+ Viés
+
+   - Os LLMs podem apresentar viés em usas rspostas, geran-
+     do frequentemente conteúdo estereotipado ou preconcei-
+     tuoso.
+
+   - Isso ocorre porque são treinados em grandes conjuntos
+     de dados que podem conter informações tendenciosas.
+
+   - Apesar das medidas de segurança implantadas para prevenir
+     isso, os LLMs as vezes podem produzir conteúdo sexista,
+     racista ou homofóbico.
+
+ Alucinações
+
+   - Os LLMs podem as vezes "alucinar" ou gerar informações
+     falsas quando questionados sobre algo que não sabem a 
+     resposta.
+
+   - Em vez de declarar que não sabem a resposta, frequente-
+     mente produzem uma resposta que soa confiante, mas é
+     incorreta.
+
+   - Isso pode levar à disseminação de informações erradas
+     e deve ser considerado ao usar LLMs em tarefas que exi-
+     gem informações precisas.
+
+   - Assim, é crucial estar atento a essa limitação ao utili-
+     zar essas ferramentas para tarefas que demandam precisão
+     e confiabilidade nas informações fornecidas.
