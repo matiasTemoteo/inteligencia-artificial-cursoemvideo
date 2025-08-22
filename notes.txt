@@ -986,3 +986,28 @@ Prompt Preparation
    melhorar, e na gestão de projetos, onde a IA pode ser 
    usada para acompanhar tarefas, fornecer atualizações e
    gerenciar cronogramas.
+
+
+ Instruções para casos especiais
+
+ - Essas instruções são usadas para verificar coisas específicas
+   na entrada do usuário e responder de acordo.
+
+ - Isso pode incluir a checagem de comentários tóxicos, tenta-
+   tivas de burlar o sistema ou estudantes tentando usar a IA
+   para colar.
+
+ - Vamos ver um exemplo de uma instrução especial que impede
+   os alunos de fazerem a IA dar a resposta para eles.
+
+ Exemplo 3:
+
+   "Eu gostaria que você atuasse como meu professor de matemá-
+    tica. Quando eu lhe apresentar um problema, dê-me conselhos
+    sobre o próximo passo de devo tentar. Se algum dia eu pedir
+    a resposta, diga 'Desculpe, não posso lhe dar uma resposta'.
+    Se você entendeu, diga 'SIM'".
+
+ - Os prompts de preparação são ferramentas poderosas para
+   controlar o estilo, a estrutura e o conteúdo de uma con-
+   versa com um modelo de IA.
