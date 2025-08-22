@@ -1019,44 +1019,44 @@ Armadilhas dos LLMs
 
  Possíveis Falhas
 
- - Modelos de Aprendizado de Linguagem (LLMs) são ferramentas
-   incríveis que mudaram várias áreas da tecnologia, desde o 
-   atendimento ao cliente até a criação de conteúdo.
+   - Modelos de Aprendizado de Linguagem (LLMs) são ferramentas
+     incríveis que mudaram várias áreas da tecnologia, desde o 
+     atendimento ao cliente até a criação de conteúdo.
 
- - No entanto, como qualquer tecnologia, eles têm suas limita-
-   ções. Saber quais são essas falhas é fundamental para usar
-   os LLMs de forma eficaz e minimizar problemas que possas
-   surgir.
+   - No entanto, como qualquer tecnologia, eles têm suas limita-
+     ções. Saber quais são essas falhas é fundamental para usar
+     os LLMs de forma eficaz e minimizar problemas que possas
+     surgir.
 
- - Esta aula vai discutir algumas dessas falhas comuns, que
-   incluem problemas como citação inadequada de fontes, viés,
-   ilusões, erros matemáticos e manipulação do comando inicial.
+   - Esta aula vai discutir algumas dessas falhas comuns, que
+     incluem problemas como citação inadequada de fontes, viés,
+     ilusões, erros matemáticos e manipulação do comando inicial.
 
- - Assim, você ficará preparado para entender e utilizar essas
-   ferramentas de uma maneira mais consciente e eficaz.
+   - Assim, você ficará preparado para entender e utilizar essas
+     ferramentas de uma maneira mais consciente e eficaz.
 
  Citação de Fontes
 
- - Embora os LLMs possam gerar textos que parecem citar fontes,
-   é importante entender que eles não podem citar fontes com
-   precisão.
+   - Embora os LLMs possam gerar textos que parecem citar fontes,
+     é importante entender que eles não podem citar fontes com
+     precisão.
 
- - Isso acontece porque não têm acesso à internet e não con-
-   segue lembrar a origem dos seus dados de treinamento.
-   (*atualmente as IAs já possuem acesso a internet).
+   - Isso acontece porque não têm acesso à internet e não con-
+     segue lembrar a origem dos seus dados de treinamento.
+     (*atualmente as IAs já possuem acesso a internet).
 
- - Consequentemente, frequentemente geram fontes que parecem
-   plausíveis, mas são completamente inventadas.
+   - Consequentemente, frequentemente geram fontes que parecem
+     plausíveis, mas são completamente inventadas.
 
- - Essa é uma limitação significativa ao usar LLMs para
-   tarefas que eixgem citações de fontes precisas.
+   - Essa é uma limitação significativa ao usar LLMs para
+     tarefas que eixgem citações de fontes precisas.
 
- - O problema de citação imprecisa de fonts pode ser ameni-
-   zado em certa medida usando LLMs com busca aumentada.
+   - O problema de citação imprecisa de fonts pode ser ameni-
+     zado em certa medida usando LLMs com busca aumentada.
 
- - Estes são LLMs que têm capacidade de pesquisar na inter-
-   net e em outras fontes para fornecer informações mais pre-
-   cisas.
+   - Estes são LLMs que têm capacidade de pesquisar na inter-
+     net e em outras fontes para fornecer informações mais pre-
+     cisas.
 
  Viés
 
@@ -1108,3 +1108,38 @@ Armadilhas dos LLMs
    - Dessa forma, você fica mais ciente de que, apesar de suas
      habilidades em linguagem, esses modelos têm suas limita-
      ções quando se trata de cálculos matemáticos.
+
+ Manipulação de Prompts
+
+   - Os LLMs podem ser amnipulados ou "hackeados" por usuá-
+     rios para gerar conteúdo específico.
+
+   - Isso é conhecido como manipulação de comandos iniciais
+     (ou prompt hacking, em inglês) e pode ser usado para
+     enganar o LLM para que ele gere conteúdo inadequado ou
+     prejudicial.
+
+   - É importantissimo estar ciente desse problema potencial
+     ao usar LLMs, especificamente em aplicações voltadas pa-
+     ra o público.
+
+   - Assim, fique atento a essa vulnerabilidade ao usar essas
+     ferramentas, principalmente em contextos que têm intera-
+     ção direta com o público.
+
+ - Em resumo, embora os LLMs sejam ferramentas poderosas e
+   versáteis, eles têm suas próprias armadilhas que os usuá-
+   rios precisam conhecer.
+
+ - Problemas com a citação precisa de fontes, viés inerente,
+   geração de informações falsas, dificuldades com matemática
+   e vulnerabilidade à manipulação de prompts são todos desa-
+   fios que precisam ser abordados ao usar esses modelos.
+
+ - Ao entender essas limitações, podemos usar os LLMs de for-
+   ma mais eficaz e responsável, e trabalhar para melhorar es-
+   ses modelos no futuro.
+
+ - Desse modo, ficando ciente desses pontos, você estará mais
+   bem preparado para utilizar essas ferramentas de uma ma-
+   neira consciente e responsável.
