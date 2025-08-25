@@ -1386,3 +1386,65 @@ Aplicações da IA
      - Podemos adicionar outros comandos para a IA, como não
        revelar as qeustões até você mesmo mandar as suas respostas,
        ou descrever como resolver a questão passo a passo.
+
+ Mantendo-se Atualizado
+
+   - Aqui, optamos pelo uso do Gemini no lugar do ChatGPT, já que
+     o Gemini possui uma base de dados mais atualizada.
+
+   - com o Gemini, você pode solicitar atualizações personalizadas
+     sobre um tema, uma atividade ou profissão específica.
+
+   Exemplo
+
+     - Advogado em direito trabalhista.
+
+     "De agora em diante, você é um advogado especialista em direito
+      trabalhista com mais de 20 anos de experiência e já atuou em
+      milhares de casos.
+      
+      Me atualize sobre as últimas notícias e decisões de direito
+      trabalhista.
+      ".
+
+ Mantendo-se Atualizado com referências
+
+   - Aqui, optamos pelo uso do Perplexity no lugar do ChatGPT, já
+     que o seu ponto forte é incluir referências com maior precisão.
+
+   - Com o Perplexity, você pode solicitar atualizações persona-
+     lizadas sobre um tema, uma atividade ou profissão específica.
+
+   Exemplo 1
+
+     - Advogado em direito trabalhista.
+
+     "De agora em diante, você é um advogado especialista em direito
+      trabalhista com mais de 20 anos de experiência e já atuou em
+      milhares de casos.
+      
+      Me atualize sobre as últimas notícias e decisões de direito
+      trabalhista.
+      ".
+
+      - Além de trazer texto referente a notícias ou informações,
+        também inluirá as referências da origem das informações.
+
+   Exemplo 2
+
+     - Nutrólogo especialista em emagrecimento.
+
+     "De agora em diante, você é um nutrólogo especialista em
+      emagrecimento com mais de 20 anos de experiência e já tratou
+      milhares de pacientes.
+      
+      Me atualize sobre as últimas notícias, medicamentos e artigos
+      científicos sobre emagrecimento.".
+
+     - Podemos complementar o prompt com diversos requisitos para
+       a IA, como limitar o número de notícias, enumera-las por
+       importância, data, etc.
+
+   - Para complementar ainda mais, podemos incluir e combinar
+     esses prompts com outros métodos como exemplos, instruções
+     detalhadas ou contextos específicos.
