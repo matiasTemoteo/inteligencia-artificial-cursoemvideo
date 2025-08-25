@@ -1143,3 +1143,44 @@ Armadilhas dos LLMs
  - Desse modo, ficando ciente desses pontos, você estará mais
    bem preparado para utilizar essas ferramentas de uma ma-
    neira consciente e responsável.
+
+
+Aplicações da IA
+
+ - Vamos colocar a mão na massa
+
+ Utilizando a IA
+
+   - Agora que aprendemos as técnicas básicas de engenharia de
+     prompt, é hora de aprender como usá-las para resolver pro-
+     blemas simples do dia a dia.
+
+ Estruturação de Dados
+
+   - Um caso de uso simples e interessante para os LLMs é a
+     organização de dados em tabelas.
+
+   - Talvez você tenha vários artigos de notícias ou relatórios
+     de ngeócios e gostaria que todos os pontos importantes fos-
+     sem resumidos em uma tabela para depois inserir em uma pla-
+     nilha ou banco de dados.
+
+   Exemplo
+
+     - "Numa recente apresentação de relatório de negócios, a Gua-
+       nabara Corporate, destacou o seu notável crescimento no
+       último ano fiscal. Ela compartilhou que a empresa teve um
+       aumento de 15% na receita, atingindo R$ 150 milhões, com
+       uma margem de lucro de 12% (R$ 18 milhões de lucro líquido).
+       O relatório também apresentou um crescimento de 20% em sua
+       base de clientes, totalizando agora 150.000 clientes. Além
+       disso, as despesas operacionais da empresa aumentaram em
+       10%, totalizando R$ 30 milhões, enquanto o número de fun-
+       cionários aumentou 25%, resultando em uma força de trabalho
+       atual de 1500 funcionários.
+
+       Gere um tabela contendo as informações do texto acima:"
+
+   - Além de pedir para a IA criar relações com conjuntos de da-
+     dos, podemos pedir para ser gerado arquivos com esses dados,
+     como Html, Pdf, Excel, csv, etc.
