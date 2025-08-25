@@ -1282,3 +1282,62 @@ Aplicações da IA
       Mencione detalhes de duas informações do LinkedIn acima para
       ajudar na composição do E-mail.
       ".
+
+ Blogs
+
+   - A IA pode reduzir significativamente o tempo necessário para
+     escrever um posto de blog.
+
+   - O processo deve ser iterativo: você deve criar comandos ini-
+     ciais, ve o que o modelo produz, pegar partes dessa produção
+     e repetir o ciclo.
+
+   Exemplo 1
+
+     - Como exemplo, imagine que você trabalhe em um confeitaria e
+       está elaborando um artigo sobre "Por que os Ovos de Páscoa
+       são uma ótima compra".
+
+     - Vamos começar com um esboço.
+
+     "Escreva um esboço para uma breve postagem para um blog sobre
+      por que os ovos de páscoa artesanais são uma ótima compra".
+
+   Exemplo 2
+
+     - O resultado do primeiro exemplo ficou bastante abrangente.
+       Pode ser que você queira uma postagem mais curta. Vamos pe-
+       dir uma versão mais curta usando este prompt.
+
+     "É um ótimo esboço, mas um pouco longo. Condese-o nos pontos
+      principais".
+
+   Exemplo 3
+
+     - Agora vamos pedir para que a IA use este esboço para escre-
+       ver uma postagem completa.
+
+     "Escreva uma postagem longa de 800 palavras para um blog
+      usado este esboço".
+
+     - Podemos pedir também para que a IA atue como um especialista
+       de SEO para trazer elementos relacionados as nossas palavras
+       chave para dentro do texto gerado.
+
+     "Atue como um especialista de SEO. Utilizando técnicas de SEO,
+      crie uma meta description e uma lista de palavras-chave para
+      esse artigo. Pode até me sugerir opções de título focados em
+      SEO.
+      ".
+
+   Exemplo 4
+
+     - Provavelmente você deseja adicionar algumas informações
+       sobre a sua empresa e preços dos produtos, então vamos
+       usar o seguinte prompt.
+
+     "Adicione um parágrafo final sobre nossa empresa e preços
+      dos produtos.
+      Empresa: Guanabara Confeitaria.
+      Preço dos ovos de páscoa artesanais: R$ 30,00 - R$ 75,00.
+      ".
