@@ -1341,3 +1341,48 @@ Aplicações da IA
       Empresa: Guanabara Confeitaria.
       Preço dos ovos de páscoa artesanais: R$ 30,00 - R$ 75,00.
       ".
+
+ Estudando
+
+   - Umas das maneiras menos exploradas de usar IA é como uma
+     ferramenta de estudo.
+
+   - Em particular, ela é útil para explicar termos confusos e
+     também para fazer perguntas sobre o conteúdo de prova.
+
+   - Deste modo, você têm à sua disposição uma ferramenta versátil
+     que não só pode ajudar a esclarecer conceitos complicados,
+     mas também testar o seu conhecimento de forma prática e eficaz.
+
+   Exemplo 1
+
+     - Veja a passagem abaixa retirada de um livro.
+
+     - 'Se imaginais que, matando homens, evitareis que alguém vos
+        repreenda em má vida, estais enganados; essa não é uma for-
+        ma de libertação, nem é inteiramente eifcaz, nem honrosa;
+        esta outra, sim, é a mais honrosa e mais fácil: em vez de
+        tapar a boca dos outros, preparar-se para ser o melhor pos-
+        sível. com este vaticínio, despeço-me de vós que mode conde-
+        nastes.' (Sócrates) Defesa de Sócrates, Platão.
+
+     - Talvez você tenha dificuldade de entender o significado da
+       palavra 'vaticínio' no texto. Vamos pedir a ajuda da IA para
+       compreender melhor.
+
+     - Podemos então, mandar o texto no chat com a IA e adicionar
+       a seguinte pergunta no prompt.
+       
+      "O que significa vatcínio no texto acima?".
+
+   Exemplo 2
+
+     - Outra maneira de usar a IA como ferramenta de estudo é
+       questionar a si mesmo. Se você tiver um teste de cálculo,
+       basta perguntar:
+
+     "Gere 10 perguntas de cálculo 1 para mim".
+
+     - Podemos adicionar outros comandos para a IA, como não
+       revelar as qeustões até você mesmo mandar as suas respostas,
+       ou descrever como resolver a questão passo a passo.
