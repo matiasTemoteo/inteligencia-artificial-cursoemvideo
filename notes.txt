@@ -1167,7 +1167,7 @@ Aplicações da IA
 
    Exemplo
 
-     - "Numa recente apresentação de relatório de negócios, a Gua-
+      "Numa recente apresentação de relatório de negócios, a Gua-
        nabara Corporate, destacou o seu notável crescimento no
        último ano fiscal. Ela compartilhou que a empresa teve um
        aumento de 15% na receita, atingindo R$ 150 milhões, com
@@ -1184,3 +1184,58 @@ Aplicações da IA
    - Além de pedir para a IA criar relações com conjuntos de da-
      dos, podemos pedir para ser gerado arquivos com esses dados,
      como Html, Pdf, Excel, csv, etc.
+
+ Escrevendo E-Mails
+
+   - Escrever e-mails, pode ser uma tarefa muito demorada, espe-
+     cialmente quando você precisa ler um e-mail recebido antes
+     de responder.
+
+   - Esta aula abordará casos de uso que vão desde um e-mail sim-
+     ples até e-mails de prospecção mais complexos.
+
+   Exemplo 1
+
+     - Imagine que um dia você acorda doente e precisa desmarcar
+       um compromisso.
+
+     "Meu nome: Ramiro
+      Nome do destinatário: Kauê
+
+      Escreva um e-mail para o destinatário dizendo que não po-
+      derei comparecer ao compromisso de hoje porque estou doente.
+      "
+
+   Exemplo 2
+
+     - O e-mail anterior ficou muito formal. Vamos melhorar um
+     pouco!
+
+     "Meu nome: Ramiro
+      Nome do destinatário: Kauê
+
+      Escreva um e-mail para o destinatário dizendo que não po-
+      derei comparecer ao compromisso de hoje porque estou doente.
+      Seja conciso e engraçado. Inclua um motivo engraçado.
+     "
+
+ Respondendo E-Mails
+
+   - Imagine que você recebe um longo e-mail de um cliente com
+     muitas informações. Você precisa responder ao e-mail, mas
+     não tem tempo para ler tudo.
+
+   Exemplo 1
+
+     - Anexe ou copie o texto do email no prompt da IA e em
+       seguida escreva o prompt a seguir.
+
+     "Gere um resumo disso e uma lista de itens de ção".
+
+   Exemplo 2
+
+     - Você pode então usar este resumo para escrever um e-mail
+       de resposta.
+
+     "Escreva um e-mail de resposta para o Guanabara usando o
+      resumo do e-mail acima".
