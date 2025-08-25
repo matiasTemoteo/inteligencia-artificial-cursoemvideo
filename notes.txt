@@ -1239,3 +1239,46 @@ Aplicações da IA
 
      "Escreva um e-mail de resposta para o Guanabara usando o
       resumo do e-mail acima".
+
+ E-Mails de Prospecção (E-Mails frios)
+
+   - E-Mails frios são enviados para pessoas que você não conhece.
+
+   Exemplo:
+
+     "Nome da empresa: Hostnet
+      Meu nome: Ramiro Lobo
+
+      Escreva um e-mail de divulgação para o empresário, chamado
+      Gustavo Guanabara, apresentando-lhe nosso produto, que é
+      um sistema de EAD. Escreva um e-mail formal, mas acessível.
+     "
+
+ E-Mails de prospecção - Informações não estruturadas
+
+   - Digamos que você tenha o perfil do linkedIn da pessoa para
+     quem está enviando o e-mail.
+
+   - Você pode acicionar algumas dessas informações ao prompt para
+     tornar o e-mail mais personalizado.
+
+   - Vamos usar o LinkedIn do Guanabara como exemplo. Vamos copiar
+     algumas informações do perfil dele e as adicionaremos ao prompt.
+
+   Exemplo:
+
+     "Experiência: Professor da FAETEC a 23 anos e Gerente de con-
+      teúdo da Hostnet a 14 anos.
+      Educação: Bacharel em Ciência da Computação na Universidade
+      Castelo Branco e Pós graduação na UERJ.
+      Habilidades: Ensino, e-learning, programação e SQL.
+      
+      Nome da empresa: Hostnet
+      Meu nome: Ramiro Lobo
+      
+      Escreva um e-mail de divulgação para o empresário chamado
+      Gustavo Guanabara, apresentando-lhe nosso produto, que é 
+      um sistema de EAD. Escreva um e-mail formal, mas acessível.
+      Mencione detalhes de duas informações do LinkedIn acima para
+      ajudar na composição do E-mail.
+      ".
