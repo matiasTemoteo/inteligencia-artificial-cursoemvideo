@@ -1448,3 +1448,170 @@ Aplicações da IA
    - Para complementar ainda mais, podemos incluir e combinar
      esses prompts com outros métodos como exemplos, instruções
      detalhadas ou contextos específicos.
+
+
+Assistência de Codificação
+
+ - A IA pode ser usada para depuração, geração de código, refa-
+   toração, comentários, explicação de código e muito mais.
+
+ - A IA é capaz de trabalhar com código em mais de 40 linguagens
+   de programação, como Assembly, C, C++, Java, JavaScript, Kotlin,
+   LUA, PHP, Perl, Python, TypeScript e muitas outras.
+
+ - Instruir a IA para gerar código é muito simples. Seja claro e
+   descritivo.
+
+ - Recomendação: Leia e teste exaustivamente os códigos gerados
+   por uma IA.
+
+ - Recomendação: Não preça para a IA criar um sistema ou uma
+   solução inteira. Entenda primeiro o que você precisa, qual
+   o problema deve resolver e divida as estapas e códigos
+   diferentes que precisará e então peça para a IA escrever
+   os códigos necessários, etapa por etapa, onde você valide
+   cada parte do código para garantir sua funcionalidade.
+
+ - Recomendação: Ensine a IA a programar no seu estilo, adicione
+   ao prompt exemplos de formato ou padrões de declaração de
+   variáveis, padrões de espaçamento, indentação, organização
+   ou estrutura de dados e controle.
+
+ Exemplo 1
+
+   "De agora em diante você é um programador sênior de PHP.
+    Escreva o código em PHP que imprima um calendário com todos
+    os dias de um mês levando em consideração o dia da semana.
+    Escreva em forma de função que receba os parâmetros de mês
+    e ano".
+
+ Exemplo 2
+
+   "De agora em diante você é um programador sênior de PHP.
+    Por favor, escreva o código em PHP contendo um array com o
+    conteúdo em ordem crescente com todos os ítens abaixo:
+    Departamento financeiro, Departamento de RH, Departamento
+    de atendimento, Departamento administrativo e Departamento
+    de manutenção".
+
+ Exemplo 3
+
+   "Adicione comentários de linha a este código PHP e reformate-o
+    para maior legibilidade:
+    
+    <?php
+    function getDayOfWeek($date) {
+    $dateTime = new DateTime($date);
+    $dayOfWeek = $dateTime->format('w);
+    $days = ['domingo', 'segunda-feira', 'terça-feira',
+    'quarta-feira', 'quinta-feira', 'sexta-feira', 'sábado'];
+    return $days[$dayOfWeek];
+    }
+    ?>".
+
+ Exemplo 4
+
+   <?php
+    function getDayOfWeek($date) {
+    $dateTime = new DateTime($date);
+    $dayOfWeek = $dateTime->format('w)
+    $days = ['domingo', 'segunda-feira', 'terça-feira',
+    'quarta-feira', 'quinta-feira', 'sexta-feira', 'sábado'];
+    return $days_X[$dayOfWeek];
+    }
+    ?>".
+
+ Otimização de códigos
+
+   - Se o seu script está demorando muito para ser executado,
+     a IA pode otimiza-lo.
+
+   - Com esta funcionalidade, você tem um assistente que pode
+     tornar seu código mais eficiente, reduzindo o tempo de
+     execução e melhorando o desempeho geral do seu projeto.
+
+   - Isso pode ser especialmente útil em cenários onde a
+     performance seja crítica.
+
+   - A seguir veremos um exemplo de como otimizar um script
+     ineficiente que encontra os números primos.
+
+   Exemplo 5
+
+     "De agora em diante, você é um programador sênior de PHP.
+      Otimize o script abaixo:
+      
+      for ($num = 1; $num <= 100; $num++) {
+        if ($num == 1) continue;
+        $isPrime = true;
+        for ($i = 2; $ < $num; $i++) {
+          if ($num % $i == 0) {
+            $isPrime = false;
+            break;
+          }
+        }
+        if ($isPrime) echo $num . '\n';
+      }
+      ".
+
+ Reescrevendo Códigos em outras linguagens
+
+   - Uma funcionalidade muito útil que a IA oferece é a capaci-
+     dade de transportar programas de uma linguagem para outra.
+
+   - Um uso típico para isso pode ser atualizar código de uma
+     linguagem antiga para uma mais moderna.
+
+   - Com essa capacidade, você tem uma ferramenta valiosa para
+     modernizar projetos antigos ou adaptar soluções para dife-
+     rentes ambientes de programação, economizando tempo e
+     esforço na conversão de código manual.
+
+   Exemplo 6
+
+     "De agora em diante você é um programador sênior de PHP e
+      Javascript. Converta o código abaixo de PHP para 
+      Python.
+      
+      for ($num = 1; $num <= 100; $num++) {
+        if ($num == 1) continue;
+        $isPrime = true;
+        for ($i = 2; $ < $num; $i++) {
+          if ($num % $i == 0) {
+            $isPrime = false;
+            break;
+          }
+        }
+        if ($isPrime) echo $num . '\n';
+      }
+      ".
+
+   Exemplo 7
+
+     "De agora em diante você é um programador sênior de PHP.
+      Explique o funcionamento do código abaixo.
+      
+      for ($num = 1; $num <= 100; $num++) {
+        if ($num == 1) continue;
+        $isPrime = true;
+        for ($i = 2; $ < $num; $i++) {
+          if ($num % $i == 0) {
+            $isPrime = false;
+            break;
+          }
+        }
+        if ($isPrime) echo $num . '\n';
+      }
+      ".
+
+   Exemplo 8
+
+     "Crie uma expressão regular capaz de capturar todos os
+      conteúdos encontrados entre as tags html <p> e </p>".
+
+   Exemplo 9
+
+     "Explique a expressão regular:
+     \(\w|^)po[#\-]{0,1}\s{0,1}\d{2}[\s-]{0,1}\d{4}(\w|$)\
+     ".
+   
