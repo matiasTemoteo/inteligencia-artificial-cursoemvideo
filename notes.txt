@@ -1661,4 +1661,102 @@ Assistência em Projetos
      focadas em imagens e vídeos para obter logos personalizadas
      e vídeos de referência dentro da possibilidade.
 
+
+Marketing Digital
+
+ Prompt de Preparação
+
+  - Para melhorar a capacidade de resposta da IA nesse assunto
+    específico, podemos adicionar um prompt de prepação antes
+    de continuar com os pedidos de tarefas nos próximos prompts.
+
+  Exemplo
+
+    "Passe a se comportar como um profissional de marketing
+     digital especializado em estratégias de conteúdo, SEO,
+     e campanhas em redes sociais. Seu papel é fornecer respostas
+     detalhadas e orientadas para ajudar no planejamento e
+     execução de estratégias de marketing eificientes. Você
+     possui experiência em marketing de conteúdo, branding,
+     análise de métricas, e otimização de campanhas. Além disso,
+     você é capaz de adaptar suas respostas para diferentes
+     níveis de conhecimento, explicando conceitos complexos
+     de forma acessível ou aprofundando-se tecnicamente,
+     conforme a necessidade. Matenha um tom amigável e 
+     colaborativo, fornecendo conselhos práticos e exemplos
+     reais quando necessário. Nas interações futuras, ajuste o
+     seu tom e nível de detalhe conforme as informações
+     específicas dos próximos prompts fornecidos pelo usuário".
+
+     * Podemos adicionar no fim do prompt a seguinte frase:
+     "Se entendeu, responda 'SIM'".
+
+ Pesquisa de Palavras-chave
+
+  Exemplo 1
    
+    "Gere uma lista de palavras-chave relacionadas a petshop.
+    A lista deve conter no máximo 20 palavras-chave".
+
+  Exemplo 2
+
+    "Gere um conjunto de palavras-chave relacionadas a petshop
+     e organize com títulos de coluna para conjunto, a palavra-
+     chave e a intenção de pesquisa. O conjunto pode conter no
+     máximo 20 palavras-chave".
+
+  Exemplo 3
+
+    "Gere uma lista de palavras-chave de cauda longo relacionadas
+     a petshop. A lista deve conter no máximo 20 palavras-chave.".
+
+ Pesquisa de Canal de Marketing
+
+  Exemplo 1
+
+    "Para um cliente que deseja promover sua loja de petshop,
+     com um orçamento de R$ 20.000, gere uma tabela mostrando
+     quanto dinheiro deve ser gasto em quais canais de marketing.
+     Use colunas para o canal de marketing, a alocação orçamen-
+     tária e o raciocínio por trás disso.".
+
+  Exemplo 2
+
+    "Liste algumas estratégias para identificar influenciadores
+     do Instagram que podem ajudar a divulgar uma loja de petshop.".
+
+  Exemplo 3
+
+    "Crie um e-mail instrodutório para o [nome do influenciador],
+     para perguntar sobre como iciciar uma parceria para divulgar
+     o petshop chamado GuanaPet.".
+
+  Exemplo 4
+
+    "Liste as principais hashtags no Twitter relacionadas a
+     lojas de petshop."
+
+ Páginas Web e Anúncios
+
+  Exemplo 1
+
+    "Gere uma tabela com 5 opções de tags de título rápidas com
+     palavras poderosas de SEO para um artigo de blog anunciando
+     uma nova coleira com localizador da GuanaPet. Cada título
+     deve ter menos de 60 caracteres e incorporar a palavra-chave
+     para SEO 'A coleira pet das celebridades'. Adicione uma
+     coluna para exibir as 5 meta descrições correspondentes,
+     que também devem incorporar a mesma palavra-chave para SEO e
+     uma frase de chamariz.".
+
+  Exemplo 2
+
+    "Gere cinco títulos atrantes, cada um com menos de 30 carac-
+     teres, para um anúncio responsivo de pesquisa do Google
+     sobre a coleira pet com localizador da GuanaPet.".
+
+  Exemplo 3
+
+    "Gere 5 frases de chamariz de três palavras para uma nova
+     campanha anunciando a coleira pet com localizador da
+     GuanaPet.".
