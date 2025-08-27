@@ -1760,3 +1760,24 @@ Marketing Digital
     "Gere 5 frases de chamariz de três palavras para uma nova
      campanha anunciando a coleira pet com localizador da
      GuanaPet.".
+
+
+Outras Aplicações da IA
+
+ - Comandos de geração de imagens
+
+ - Search Engine Optimization (SEO)
+   - Títulos
+   - Meta description
+   - Palavras-chave
+
+ - Contratos
+   - Gerar contratos
+   - Tirar dúvidas de contrato: Peça para a IA explicar
+    um parágrafo.
+   - Verificar se contém linguagem jurídica perigosa
+    que favoreça uma das partes.
+
+ - Resumir Textos
+   - Resumir um texto colado
+   - Resumir obras famosas (Ex.: Pequeno príncipe)
