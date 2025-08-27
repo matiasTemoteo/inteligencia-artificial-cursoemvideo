@@ -1614,4 +1614,51 @@ Assistência de Codificação
      "Explique a expressão regular:
      \(\w|^)po[#\-]{0,1}\s{0,1}\d{2}[\s-]{0,1}\d{4}(\w|$)\
      ".
+
+Assistência em Projetos
+
+ - A IA pode ser usada como um mentor para te ajudar a formatar
+   projetos nas áreas mais distintas.
+
+ Exemplo 1
+
+   "De agora em diante você é um especialista em TI. Eu sou um
+    gerente de TI de uma emresa de desenvolvimento de software.
+    Um dos nossos clientes ecnontrou o desenvolvimento de projeto
+    de site de venda de veículos usados. Que linguagem de progra-
+    mação e banco de dados devo usar no projeto? Quais ferramentas
+    open source, temas e plugins posso usar para este projeto?
+    Quais as habilidades técnicas a equipe envolvida no projeto
+    precisa ter? Que tipo de fornecedor de serviços vou precisar?
+    Que outras coisas ou ferramentas devo adicionar no projeto?"
+
+   - Podemos solicitar para a IA as melhores ferramentas ou
+     features possíveis para desenvolver o projeto esperado.
+     Ao atuar como um especialista, a IA irá buscar informações
+     sobre o tipo de projeto em questão, tecnologias atuais e
+     mais eficientes e com melhor custo benefício. Ao conversar
+     com a IA como se fosse um especialista real, podemos ter
+     melhores insights do que trabalhando sozinho.
+
+ Exemplo 2
+
+   "De agora em diante você é um especialista em salão de beleza.
+    Estou montando um salão de beleza e preciso que você me ajude
+    a manter o planejamento deste negócio. Preciso de ideias
+    de nome e logo, que tipo de móveis e equipamentos devo comprar
+    incluindo a quantidade, que tipo de profissionais devo contra-
+    tar, como faço para divulgar esse negócio, documento, autori-
+    zações e tudo mais que você achar necessário. Pretendo ofere-
+    cer os serviços de manicure, corte e coloração de cabelos.".
+
+   - Ao criar uma conversa com a IA é possível obter sugestões,
+     nomes, partes de processos que as vezes ficam difícies de
+     se encontrar sozinhos.
+
+   - O processo de construção de umaconsultoria com a IA não
+     precisa acontecer em um único chat ou em uma única ferra-
+     menta de IA, podemos utilizar diversas, inclusive algumas
+     focadas em imagens e vídeos para obter logos personalizadas
+     e vídeos de referência dentro da possibilidade.
+
    
