@@ -16,6 +16,15 @@ ChatGPT - https://chatgpt.com/
  - Usa o GPT-5 como modelo de IA
  - LLM
 
+ * É possível solicitar um perfil de personagem em MD obtido
+   a partir de imagens fornecidas. Utilizando esse perfil,
+   podemos rquisitar novas imagens com variações e especifici-
+   dades além de caracteristicas como posição, ângulo, sombra
+   e background.
+   - O perfil que foi criado ficará armazenado em contexto e
+     poderá ser mensionado mediante o uso do nome informados
+     para o perfil.
+
 
 Gemini - https://gemini.google.com/
 
