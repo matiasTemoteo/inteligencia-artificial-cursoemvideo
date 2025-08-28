@@ -1937,3 +1937,77 @@ Linguagem Markdown
        | -------- | -------- |
        |  Linha 1 |  Valor 1 |
        |  Linha 2 |  Valor 2 |
+
+
+ Markdown em Prompts
+
+    Exemplo 1 - Perguntas e respostas estruturadas
+      
+      "
+      **Pergunta:** Quais são os benefícios do Markdown?
+      **Resposta:**
+        - Facilidade de uso e leitura
+        - Conversão simples para HTML
+        - Compatibilidade com diversas plataformas
+      "
+
+    Exemplo 2 - Tarefa de Programação
+
+      "
+      # Tarefa de Programação
+      Crie um script em Python que:
+      1. Leia um arquivo de texto chamado `dados.txt`.
+      2. conte o número de linhas, palavras e caracteres no arquivo.
+      3. Imprima esses valores no console.
+      4. Salve os resultados em um arquivo chamado `resultado.txt`.
+      "
+
+    Exemplo 3 - Pedido de Design Gráfico
+
+      "
+      # Pedido de Design Gráfico
+      Por favor, crie um banner para o nosso site com as
+      seguintes especificações:
+      - **Tamanho** 1200x600 pixels
+      - **Cor de Fundo** #3498db
+      - **Texto:** Arial, tamanho 36, negrito
+      - **Imagem:** Inclua o logotipo da empresa no canto superior esquerdo
+      **Exemplo Visual**
+      ! [Exemplo de Banner](URL_da_imagem_exemplo)
+      **Notas:**
+      - O banner deve ser simples e atraente.
+      - Envie o arquivo final em formato PNG.
+      "
+
+    Exemplo 4 - Solicitação de Documentação Técnica
+
+      "
+      # Solicitação de Documentação Técnica
+      Por favor, documente a função `calcularMedia` no nosso projeto JavaScript. A documentação deve incluir:
+      1. **Descrição**: O que a função faz.
+      2. **Parâmetros:**
+        - `números` (Array de números): Lista de números para
+        calcular a média.
+      3. **Retorno:** Número representando a média dos valores no array.
+      4. **Exemplo de Uso:**
+      ```javascript
+      const numeros = [10, 20, 30, 40, 50];
+      const media = calcularMedia(numeros);
+      console.log(media); // Saída esperada: 30
+      ```
+      "
+  
+ Conclusão
+
+   - O uso de Markdown em prompts oferece uma maneira efici-
+     ente e intuitiva de formatar as respostas, tornando-asmais legíveis e organizadas.
+
+   - Seja para documentação técnica, criação de listas,
+     formatação de texto, ou inclusão de links e imagens,
+     o Markdown é uma ferramenta poderosa que complementa
+     perfeitamente as capacidades dos prompts.
+
+   - Aproveitar esses recursos pode elevar a qualidade das
+     interações e facilitar a comunicação de informações
+     complexas de maneira clara e concisa.
+ 
