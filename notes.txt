@@ -1812,3 +1812,128 @@ Linguagem Markdown
 
    - Isso resulta em informações visualmente mais organizadas
      e atrativas.
+
+ Sintaxe
+
+   Cabeçalhos
+
+     - Os cabeçalhos são criados usando o símbolo '#'.
+       Dependendo do número de '#', você define o nível do
+       cabeçalho, de h1 a h6.
+
+     Exemplos
+
+       # Cabeçalho 1
+       ## Cabeçalho 2
+       ### Cabeçalho 3
+
+   Negrito e Itálico
+
+     - Para estilizar o texto em negrito, utilizamos dois
+       asteriscos '**' ou dois sublinhados '__'.
+
+     - Para itálico, usamos um asterisco '*' ou um sublinhado
+       '_'.
+
+     Exemplos
+
+       **Negrito**
+       _Itálico_
+
+   Listas
+
+     - Listas não ordenadas são criadas usando hífens '-',
+       asteriscos '*' ou sinais de mais '+'.
+
+     Exemplos
+
+       - Item 1
+       - Item 2
+         + Subitem 1
+         + Subitem 2
+
+     - Listas ordenadas utilizam números seguidos de um
+       ponto, sempre finalizando com o '.'.
+
+     Exemplos
+
+       1. Primeiro Item
+       2. Segundo Item
+         2.1. Subitem 1
+         2.2. Subitem 2
+
+   Links
+
+     - Para criar links, utilizamos colchetes '[]' para o 
+       texto do link e parênteses '()' para a URL.
+
+     Exemplos
+
+       [Ramiro Lobo] (https://www.ramirolobo.com/)
+
+       [Aula 1 de IA] (https://youtu.be/jQMbuK6URws?si=5Gmi76Qv598gS037)
+
+   Imagens
+
+     - As imgagens são inseridas de forma similar aos links,
+       mas precedidas de um ponto de exclamação '!'. Seguindo
+       o formato: ! [Descrição da imagem] (URL_da_imagem).
+
+     Exemplo
+
+       ! [Imagem 1] (http://sitedaimgame.com/imagem.png)
+
+   Linhas Horizontais
+
+     - Para adicionar uma linha horizontal, use três ou
+       mais hífens '-'.
+
+     Exemplo
+
+       --- 
+       Conteúdo 
+       ---
+
+   Blocos de Código
+
+     - Para destacar em linha, usamos crases '`'. Para
+       blocos de código, utilizamos três crases '```'.
+       Na marcação do bloco de código podemos indicar a
+       linguagem utilizada pelo código, simplesmente
+       adicionando o nome da linguagem após a primeira
+       marcação de três crases.
+
+     Exemplos
+
+       Esta linha contém um `código`.
+
+       ```
+       Este é um bloco de código
+       ```
+
+       ```python
+       def exemplo():
+         print("Olá mundo!")
+       ```
+
+   Citações
+
+     - Para adicionar uma citação, basta usar o símbolo '>'.
+
+     Exemplos
+
+       > Este é um exemplo de citação
+       > Pode ter várias linhas.
+
+   Tabelas
+
+     - Markdown também permite criar tabelas de maneira
+       simples. Utilizando pipes '|' e hífens '-' como
+       delimitadores das colunas e linhas da tabela.
+
+     Exemplo
+
+       | Coluna 1 | Coluna 2 |
+       | -------- | -------- |
+       |  Linha 1 |  Valor 1 |
+       |  Linha 2 |  Valor 2 |
