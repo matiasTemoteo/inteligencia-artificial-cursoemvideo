@@ -1781,3 +1781,34 @@ Outras Aplicações da IA
  - Resumir Textos
    - Resumir um texto colado
    - Resumir obras famosas (Ex.: Pequeno príncipe)
+
+
+Linguagem Markdown
+
+ Fundamentos da Linguagem
+
+   - Linguagem de marcação criada por John Gruber em 2004,
+     com o objetivo de ser uma forma simples de estilizar
+     texto na web. John elucidou a ideia da liguagem, enquanto
+     Aaron Swarts, um renomado programador desenvolveu a
+     codifiação da linguagem.
+
+   - Diferente do HTML, o Markdown é mais fácil de escrever
+     e ler, pois utiliza uma sintaxe simples e intuitiva.
+
+   - Quando se utiliza Markdown, os documentos podem ser
+     facilmente exportados em diferentes formatos, como
+     HTML, office, PDF e outros.
+
+   - Variações da linguagem Markdown são utilizados por sites
+     como GitHub, BitBucket, Reddit e SourceForge para facili-
+     tar a comunicação e discussão entre usuários.
+
+ Usando em Prompts
+
+   - Quando aplicado em prompts, o Markdown pode melhorar
+     significativamente a estrutura e a clareza das respos-
+     tas.
+
+   - Isso resulta em informações visualmente mais organizadas
+     e atrativas.
