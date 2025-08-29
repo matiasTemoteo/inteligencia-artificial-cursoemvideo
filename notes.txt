@@ -2000,7 +2000,8 @@ Linguagem Markdown
  Conclusão
 
    - O uso de Markdown em prompts oferece uma maneira efici-
-     ente e intuitiva de formatar as respostas, tornando-asmais legíveis e organizadas.
+     ente e intuitiva de formatar as respostas, tornando-as
+     mais legíveis e organizadas.
 
    - Seja para documentação técnica, criação de listas,
      formatação de texto, ou inclusão de links e imagens,
@@ -2011,3 +2012,76 @@ Linguagem Markdown
      interações e facilitar a comunicação de informações
      complexas de maneira clara e concisa.
  
+
+Aprimorando Prompts
+
+ - Técnicas e conceitos que permitem construir prompts mais
+   eficiêntes com resultados melhores.
+
+ Exemplo 1
+
+   "
+   Escreva uma história de fantasia e ficção científica
+   sobre um menino pobre que queria ser um mago poderoso.
+   "
+
+ Exemplo 2
+
+   "
+   Quais as téncnicas usadas para escrever roteiros de
+   filmes de sucesso?
+   "
+
+ Exemplo 3
+
+   "
+   #Objetivo
+   Quero que atue como um autor de histórias de fantasia e
+   ficção científica sobre um menino pobre que queria ser
+   um mago poderoso.
+   #instruções
+   - Você desenvolverá uma história envolvente e cativante.
+   - Crie personagens interessantes, o cenário da história, os diálogos entre os personagens e tudo mais que for necessário.
+   - Adicione um enredo emocionante e cheio de reviravoltas que mantenham os espectadores em suspense até o final.
+   - Gere uma estrutura com base nas técnicas descritas na conversa acima.
+   "
+
+   "
+   Escreva o primeiro capítulo do ato um.
+   *Observação:* siga solicitando a escrita de cada capítulo de todos os atos até o capítulo final.
+   "
+
+ Exemplo 4 - Peça para a IA te perguntar
+
+   "
+   1. Antes de começar a executar o meu próximo pedido, me
+   pergunte o que você precisa saber para executar melhor a
+   tarefa solicitada e só comece a escrever o artigo quando
+   eu comandar 'comece a escrever' ou quando você obtiver
+   todas as respostar das suas perguntas.
+
+   2. Crie um artigo sobre um curso que minha empresa está
+   lançando.
+   "
+
+ Exemplo 5 - Peça para a IA analisar o Prompt
+
+   "
+   #Instruções
+   Me esplique a engenharia por trás do prompt abaixo e
+   forneça sugestões para melhorar o mesmo.
+   #Prompt
+   Quero que você atue como recrutador. Você deve criar
+   estratégias para ecnontrar candidatos qualificados.
+   Isso pode incluir entrar em contato com possíveis
+   candidatos através de mídicas sociais, eventos ou 
+   qualquer outra maneira para encontrar as melhores
+   pessoas para cada função. Meu primeiro pedido é
+   'Preciso de ajuda para encontrar um programador
+   sênior de PHP'.
+   "
+
+   * Com essa técnica é possível utilizar a resposta da IA
+   como um prompt ainda melhor para ser requisitado novamente
+   em outro prompt. A qualidade do prompt final vai permitir
+   uma resposta muito superior e mais completa.
