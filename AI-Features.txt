@@ -35,6 +35,26 @@ Gemini - https://gemini.google.com/
  - Usa o Gemini como modelo de IA
  - LLM
 
+ * O Aprendizado Guiado é uma ótima ferramenta do Gemini para 
+   aprender. Essa ferramenta conversa com o usuário aos poucos
+   dnetro de uma sessão para chegar em resultados ou respostas,
+   ao ínves de simplesmente dar a resposta logo de cara.
+
+ * O Deep research é uma ferramenta do Gemini que aumenta o foco da
+   IA em cima do assunto abordado, aprofundando a pesquisa, raciocínio e
+   o processamento utilizado, podendo entregar resultados melhores e 
+   mais elaborados. Essa ferramenta acaba precisando de mais tempo
+   para entregar os resultados.
+
+ * (pro) Outra ferramenta do Gemini é o "criar" que permite exportar a
+   partir do conteúdo gerado pela IA, um novo tipo de conteúdo seja
+   em arquivo, página da web ou audio. Um dos mais interessantes
+   é o teste, que gera um teste com questões a partir do conteúdo
+   trabalhado com a IA.
+
+ * (pro) O Gemini possui também os flash cards, que são pequenos cartões
+   com pergutas ou pequenas pedaços de texto para auxiliar nos estudos.
+
 
 Meta AI - https://www.meta.ai/
 
