@@ -2085,3 +2085,95 @@ Aprimorando Prompts
    como um prompt ainda melhor para ser requisitado novamente
    em outro prompt. A qualidade do prompt final vai permitir
    uma resposta muito superior e mais completa.
+
+
+Constuindo Bases de Conhecimento
+
+ - O guia definitivo para criar conteúdos poderosos
+
+ O desafio de criar algo bom
+
+   - Criar conteúdos realmente bons com IA pode parecer complicado,
+     mas a verdade é que tudo depende da forma como você usa a
+     ferramenta.
+
+   - Se você só pede para a IA "criar um texto sobre X assunto", ela
+     pode até gerar um conteúdo, mas muitas vezes ele acaba sendo
+     genérico e sem profundidade.
+
+   - Isso acontece porque a IA não tme uma base de conhecimento
+     organizada para trabalhar, o que faz com que o conteúdo fique
+     superficial.
+
+   - É ai que entra o método ACR
+
+ Método ACR (três passos para o conteúdo ideal)
+
+   - Essa técnica transforma ideias soltas em conteúdos bem estrutura-
+     dos, interessantes e totalmente personalizados.
+
+   - Ele foi criado para quem usar IA de forma estratégica e garantir
+     que o resultado final seja claro, impactante e feito sob medida.
+
+   - O Método ACR se baseia em três passos simples:
+
+     * Análise: Coletar informações de qualidade.
+
+     * Criação: Gerar conteúdo com a IA de forma direcionada.
+
+     * Refinamento: Ajustar e melhorar o conteúdo até que ele fique
+     perfeiro.
+
+   Análise (Aprofundamento | Coletando informações importantes)
+
+     - A IA não "pensa" como um humano.
+
+     - Ela precisa de informações bem organizadas para gerar respostas
+       mais completas e relevantes.
+
+     - Por isso, primeiro construímos uma base de conhecimento antes
+       de pedir qualquer coisa.
+
+     - Exemplos de fontes para coleta
+
+       * Livros e apostilas (PDF, DOCs ou imagens) como aquele material
+         de matemática que você já usou na escola.
+
+       * Sites confiáveis que falam sobre o tema.
+
+       * Resumos e anotações que você já fez sobre o assunto.
+
+       * Vídeos de aula ou podcasts (transcrições desses conteúdos).
+
+     - Por exemplo, se você quer criar um resumo sobre operações
+       algébricas, pode pegar explicações do seu livro e usá-las
+       como base para que a IA gere um resumo simplificado.
+
+     - O objetivo é garantir que a IA tenha informações de qualidade
+       para trabalhar e não crie um conteúdo vazio ou errado.
+
+     Exemplos
+
+       "
+       #Objetivo
+       Extrair tudo o que encontrar no arquivo anexado a este prompt
+       sobre o **tema**, organizando-o de forma detalhada e estruturada.
+       Chamaremos o conteúdo gerado de 'BASE DE CONHECIMENTO'.
+       #Instruções e Ações
+       ##1. Papel e contexto
+       - Atue como um especialista em extração de conteúdo,focando em
+       capturar tudo sobre o **tema**, sem omissões.
+       ##2. Conteúdo
+       - Extraia tudo sobre o **tema**, inclindo listas, tabelas,
+       paragráfos e quaisquer outros elementos relevantes.
+       - Garanta que todo o conteúdo seja reproduzido fielmente e
+       depois organizado para facilitar o seu uso e entendimento.
+       - Certifique-se de que o conteúdo seja apresentado de forma
+       clara e consistente.
+       - Gere o conteúdo de forma mais expandida possível considerando
+       apenas os textos retirdados do arquivo.
+       - Aplique pontuação, correções de ortografia e de gramática se
+       necessário.
+       #Tema
+       Tudo o que encontrar sobre **operações algébricas**.
+       "
