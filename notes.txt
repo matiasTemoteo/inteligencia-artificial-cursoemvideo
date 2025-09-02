@@ -2229,3 +2229,45 @@ Constuindo Bases de Conhecimento
      - Importante: Mesmo coma a IA refinando o conteúdo, sempre
        revise manualmente para garantir que tudo faz sentido e está
        claro para o seu público.
+
+ Método ACR - Dúvidas
+
+   Por que o método ACR é tão poderoso?
+
+     - Se você estuda, cria conteúdo ou só quer aprender mais rápido,
+       esse método é perfeito para você porque:
+
+         * Clareza: Organiza o conhecimento e ajuda a entender melhor
+           os temas.
+
+         * Personalização: Produz conteúdos ajustados ao público e
+           objetivos específicos.
+
+         * Economiza tempo: Transfere ideias dispersas em materiais
+           prontos com rapidez e eficácia.
+
+         * Pode ser aplicado a qualquer área: Matemática, história,
+           biologia, redação, criação de conteúdo e muito mais, o ACR
+           funciona para tudo!.
+
+   Por que não colocamos tudo em um único prompt?
+
+     - Quando queremos criar conteúdos verdadeiros, detalhados e sem
+       superficialidade, muitas vezes precisamos fornecer prompts longos
+       e complexos para a IA.
+
+     - No entanto, quanto mais informações e instruções colocamos em um
+       único prompt, maior a chance de a IA perder detalhes importantes
+       ou gerar um conteúdo genérico.
+
+     - Isso acontece porque a IA processa as informações com base em
+       padrões e pode ter dificuldades em priorizar corretamente cada
+       instrução.
+
+     - Para evitar esse problema, o ideal é dividir as tarefas em
+       múltiplos prompts, organizando cada etapa do processo.
+
+     - Dessa forma, conseguimos guiar a IA de forma mais clara,
+       garantindo que cada parte do conteúdo seja construída com
+       precisão, evitando erros e refinando o resultado conforme
+       necessário.
