@@ -26,3 +26,179 @@ Como funciona a IA?
  - Por exemplo, um sistema de IA pode aprender a identificar
    imagens de gatos depois de analisar milhares de imagens
    de gatos.
+
+
+Evolução da IA (Otem, Hoje e Amanhã)
+
+ O Surgimento (De onde veio?)
+
+   O que é inteligência? (Etimologia)
+
+     - Vem do Latim Intelligere, "Inter" = entre, "Lègere" = escolher.
+
+     - Cpacidade de escolha de um indivíduo entre as várias posibilida-
+       des que lhe são apresentadas.
+
+     - Podemos dizer então que inteligente é aquele que sabe escolher
+       a melhor alternativa entre várias.
+
+     * Nós seres humanos tendemos a resolver a várias questões que
+       convergem em nossas vidas, baseando-nos em experiências,
+       raciocínios e emoções, a partir dos quais chegamos a
+       uma solução para os problemas em questão.
+
+     * Já as máquinas resolvem questões ou problemas por meio de
+       análise matemática, dados estatísticos e cálculos que são
+       envolvidos em algoritmos especializados para gerarem um
+       método de resolução para os problemas em questão.
+
+   Inteligência Artificial
+
+      Simulando os nossos neurônios
+
+       - Em 1943, O MAtemático e Neurocientista, Walter Pitts,
+         juntamente com o Médico e Neuroanatomista, Warren McCulloch
+         criaram o primeiro modelo matemático de neurônio artificial
+         na computação.
+
+       - Surgiu assim o Neurônio de McCulloch-Pitts.
+
+       - A partir de uma entrada e uma saída, podemos criar uma rede
+         de neurônios entre elas, onde cada um usará inferências
+         para gerar dados matemáticos a partir dos dados gerados
+         pelos neurônios anteriores.
+
+       - A anatomia da inteligência humana é diferente da anatomia da
+         inteligência artificial.
+
+ Capacidades da IA (Como a IA tem evoluido)
+
+   Máquinas Rativas (O começo de tudo)
+
+     Definição
+
+       - Estas são as primeiras gerações de sistemas de IA.
+
+       - Sua capacidade é restrita e se concentra principalmente em
+         reagir a entradas específicas com respostas predefinidas.
+
+       - Elas tentam imitar a capacidade da mente humana de responder
+         a diferentes tipos de estímulos, mas não possuem a versatili-
+         dade da mente humana.
+
+     Ausência de memória e aprendizado
+
+       - Essas máquinas carecem de uma "memória" no sentido de que não
+         podem usar informações ou experiências anteriores para influen-
+         ciar suas ações futuras.
+
+       - Isso também siginifica que elas não tem a capacidade de
+         aprender com suas interações.
+
+     Uso prático
+
+       - Elas são eficazes em tarefas específicas, onde a reação
+         à entrada pode ser predefinida.
+
+       - Por exemplo, o Deep Blue da IBM era uma máquina reativa.
+
+       - O Deep Blue foi projetado especificamente para jogar Xadrez
+         e conseguiu vencer o campeão mundial, Garry Kasparov, não
+         por sua capacidade de "pensar" como humanos, mas por sua
+         capacidade de processar rapidamente muitas possíveis jogadas
+         de Xadrez. O evento ocorreu em 1997 na cidade de Nova York e
+         foi um marco para a inteligência artificial.
+
+
+   IA de Mémoria Limitada (O próximo passo)
+
+     Definição
+
+       - Estas máquinas vão além das capacidades das máquinas pura-
+         mente reativas.
+
+       - Enquanto as reativas respondem com base em entradas predefi-
+         nidas, as de memória limitada aprendem e e adaptam usando
+         dados hitóricos.
+
+       - Elas são capazes de utilizar informações anteriores, ou seja,
+         elas aprendem com os dados que já processaram para tomar
+         decisões no futuro.
+
+     Aplicações comuns
+
+       - A maioria dos aplicativos de IA que usamos hoje se baseia nessa
+         categoria. Eles não apenas reagem, mas tembém adaptam suas
+         respostas com base no que "aprenderam".
+
+       - Sistemas que utilizam técnicas como Deep Learning são ali-
+         mentados por vastas quantidades de dados.
+
+       - Estes dados são armazenados e usados para criar um modelo que,
+         posteriormente, serve como guia para resolver ou responder
+         as cunsultas.
+
+     Exemplos práticos
+
+       - Desde chatbots e assitentes digitais até carros autônomos,
+         a maioria das tecnologias que interagimos diariamente são
+         impulsionadas por essa forma de IA.
+
+
+   Teoria da Mente (Replicando o comportamento humano)
+
+     Conceito
+
+       - Atualmente, a "teoria da mente" na inteligência artificial
+         é mais um conceito do que uma realidade consolidada.
+
+       - É uma área emergente em que os especialistas estão concen-
+         trando seus esforços de pesquisa e inovação.
+
+       - Um sistema baseado nesta teoria será capaz de entender pro-
+         fundamnte os seres com os quais interage.
+
+       - Isso significa reconhecer e interpretar suas emoções, crenças,
+         desejos e padrões de pensamento.
+
+     Desafios e Projetos
+
+       - Enquanto já estamos vendo avanços na criação de IAs com
+         inteligência emocional, alcançar a verdadeira "teoria da
+         mente" em IA vai além e demanda avanços em várias subáreas
+         da inteligência artificial.
+
+       - Para que uma IA realmente entenda os humanos, ela precisa
+         perceber cada pessoa como um indivíduo único, influenciado
+         por uma multiplicidade de fatores.
+
+       - Em outras palavras, a máquina deve ser capaz de "compreender"
+         profundamente os humanos em suas singularidades.
+
+   Autoconsciência (Máquinas conseguiriam "Ganhar Vida"?)
+
+     Conceito
+
+       - Enquanto a "teoria da mente" na IA está ainda em desenvolvi-
+         mento, a noção de IA "autoconsciente" é mais especulativa.
+
+       - Uma IA autoconsciente não só entenderia, como poderia evocar
+         emoções em outros, mas também possuiria suas próprias emo-
+         ções, crenças e, talvez, até desejos.
+
+     Preocupações e representações culturais
+
+       - Muitos veem essa forma de inteligência artificial com cuatela,
+         temendo as consequências imprevistas de criar uma entidade
+         que tem consciência de si mesma.
+
+       - Representações populares dessa ideia, como o filme "Matrix",
+         ilustram um cenário onde máquinas dominam o mundo.
+
+       - Ao se tornar autoconsciente, uma IA pode desenvolver conceitos
+         como autopreservação.
+
+       - Tais ideias, aliadas à capacidade superior de processamento
+         e raciocínio de uma IA, poderiam resultar em estratégias
+         para se proteger ou até dominar a humanidade, superando
+         facilmente o intelecto humano.
