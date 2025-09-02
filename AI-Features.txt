@@ -25,6 +25,10 @@ ChatGPT - https://chatgpt.com/
      poderá ser mensionado mediante o uso do nome informados
      para o perfil.
 
+ * É possível alterar imagens usando o ChatGPT, por exemplo usando
+   uma imagem de base e fornecendo outras imagens que queremos incluir
+   na imagem original, como móveis para incluir em uma sala.
+
 
 Gemini - https://gemini.google.com/
 
