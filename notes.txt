@@ -2177,3 +2177,55 @@ Constuindo Bases de Conhecimento
        #Tema
        Tudo o que encontrar sobre **operações algébricas**.
        "
+
+   Criação (criação do conteúdo)
+
+     - Agora que você tem uma base de conhecimento forte, é hora de
+       pedir para a IA criar o conteúdo.
+
+     - Mas atenção: o segreedo está na forma como faz o pedido (prompt).
+
+     Exemplo de Prompt
+
+       "
+       - Explique o conceito de **Operações algébricas** para um estudante do
+       ensino médio de forma clara e com exercícios práticos.
+       - Use uma linguagem simples e divertida.
+       - Utilize explusivamente os conteúdos fornecidos na 'BASE DE CONHECIMENTO'.
+       "
+
+   Refinamento (Adaptando | tornando o conteúdo ainda melhor)
+
+     - Depois que a IA cria o texto, é hora de revisar e deixar tudo
+       ainda melhor. Isso significa:
+
+         * Corrigir possíveis erros.
+
+         * Melhorar a clareza e o tom de voz.
+
+         * Adaptar o conteúdo ao seu público-alvo.
+
+     Exemplo de prompt
+
+       "
+       - Revise este texto e torne-o ainda mais simples e envolvente
+       para estudantes do ensino médio.
+       - Adicione exemplos fáceis de entender e deixe a explicação
+       mais dinâmica.
+       "
+
+     - Se precisar, você pode até pedir para a IA reformular o
+       conteúdo para diferentes formatos:
+
+         * Criar um roteiro para um vídeo no TikTok ou YouTube
+
+         * Transformar em um quiz para testar seus conhecimentos.
+
+         * Fazer um mapa mental resumido.
+
+     - Objetivo do Refinamento: Deixar o conteúdo final perfeito,
+       envolvente e útil.
+
+     - Importante: Mesmo coma a IA refinando o conteúdo, sempre
+       revise manualmente para garantir que tudo faz sentido e está
+       claro para o seu público.
