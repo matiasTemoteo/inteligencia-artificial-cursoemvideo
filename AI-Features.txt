@@ -59,6 +59,9 @@ Gemini - https://gemini.google.com/
  * (pro) O Gemini possui também os flash cards, que são pequenos cartões
    com pergutas ou pequenas pedaços de texto para auxiliar nos estudos.
 
+ * Gemini a partir da versão 2.5 Flash, possui uma melhor cpacidade
+   na edição de imagens.
+
 
 Meta AI - https://www.meta.ai/
 
