@@ -202,3 +202,67 @@ Evolução da IA (Otem, Hoje e Amanhã)
          e raciocínio de uma IA, poderiam resultar em estratégias
          para se proteger ou até dominar a humanidade, superando
          facilmente o intelecto humano.
+
+
+ Etapas da IA (A cada dia, um novo passo)
+
+   Inteligência Artificial Estreita
+
+     Definição
+
+       - Também chamada de inteligência artificial fraca.
+
+       - Essa é a fase atual da inteligência artificial.
+
+       - São sistemas programados para executar uma única
+         tarefa com precisão.
+
+       - Embora possam acumular conhecimento dentro dessa
+         tarefa, não transferem automaticamente esse aprendizado
+         para outras funções.
+
+       - São focadas em tarefas específicas e não acumulam múlti-
+         plas tarefas ao mesmo tempo.
+
+       - Esses algoritmos são frequentemente treinados usando
+         conjuntos de dados, que podem vir da internet, livros
+         e documentos digitalizados.
+
+       - Enquanto podem superar humanos em tarefas específicas,
+         como jogar xadrez, essas IAs têm um alcance limitado
+         e não podem aplicar suas habilidades além daquela
+         tarefa específica.
+
+     Presença no dia-a-dia
+
+       - Você pode se surpreender ao saber que a IA estreita
+         está ao nosso redor há mais tempo do que pensamos:
+
+         * Mapas em smartphones.
+
+         * Aplicativos de streaming que recomendam músicas ou
+           vídeos.
+
+         * Assistentes virtuais, como Siri, Alexa ou Google
+           Assistent.
+
+         * O mecanismo de busca do Google.
+
+     Aplicações diversas
+
+       - Além de ferramentas de consumo cotidianas, esses
+         sistemas já são usados em linhas de produção, no
+         mercado financeiro, na medicina e até mesmo em
+         aplicações militares.
+
+       - Mesmo tecnologias avançadas, como carros autônomos
+         e ChatGPT, ainda são caracterizados como IA estreita,
+         pois operam dentro de limites predefinidos e não tomam
+         decisões independentes.
+
+     Futuro e Perspectivas
+
+       - No entanto, há quem acredite que sistemas avançados,
+         como ChatGPT, que são projetados para aprendizado
+         contínuo, podem eventualmente evoluir para estágios
+         mais avançados de IA.
