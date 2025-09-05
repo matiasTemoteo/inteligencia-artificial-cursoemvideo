@@ -106,6 +106,15 @@ NotebookLm - https://notebooklm.google.com/
  - Usa o modelo Gemini
  - LLM
 
+ - O Notebook LM possui uma grande capacidade de lidar com
+   múltiplos documentos e fontes de informação em texto.
+   Podemos por exemplo criar um notebook com diversas fontes
+   diferentes como Google Docs, Documentos PDF, Imagens e até
+   audio. Com o Notebok criado podemos interagir com ele
+   por meio do chat, e até solciitar conteúdos a partir desse
+   contexto inicial, podendo requisitar textos, audios em
+   formato podcast e até vídeos em slides.
+
 
 HuggingChat - https://huggingface.co/huggingchat
 
