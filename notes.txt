@@ -2310,3 +2310,41 @@ Fraework STAR (Uma maneira de estruturar seus prompts)
 
    Resultado: "Forneça uma versão revisada, explicando as alterações feitas."
 
+
+Quatro pilares para um prompt perfeito (Tudo aquilo que um bom prompt deve ter)
+
+ - Vimos anteriormente a necessidade de estruturar prompts de
+   maneira mais eficiente.
+
+ - Isso surgiu da observação de que instruções vagas ou mal
+   formuladas resultavam em respostas insatifatórias.
+
+ - Ben Hylak, ex-designer da Apple, identificou que um prompt
+   eficaz deveria conter elementos-chave que direcionassem a IA
+   de forma precisa.
+
+ - Greg Brockman, ex-presidente da OpenAI, destacou a importância
+   desse modelo para otimizar a interação com ferramentas de IA.
+
+ - Objetivo principal: Defina claramente o que você deseja que a
+   IA faça.
+
+ - Como você quer ser respondido?: Especifique o formato ou estilo
+   da respostas desejada.
+
+ - Alertas e avisos: Indique o que deve ser evitado ou considerado
+   na resposta.
+
+ - Chuva de contexto: Forneça detalhes adicionais que possam
+   enriquecer a resposta.
+
+ A importância da repetição na Engenharia de Prompts
+
+   - Uma ténica eficaz na elaboração de prompts é a repetição de
+     palavras-chave ou conceitos importantes.
+
+   - Essa prática reforça a compreenção da IA sobre o que é
+     solicitado, aumentando a precisão das respostas.
+
+   - Por exemplos, ao enfatizar termos específicos repetidamente, a
+     IA tende a captar melhor a essência da solicitação.
