@@ -2271,3 +2271,42 @@ Constuindo Bases de Conhecimento
        garantindo que cada parte do conteúdo seja construída com
        precisão, evitando erros e refinando o resultado conforme
        necessário.
+
+
+O que são frameworks? (O Desafio de conseguir respostas melhores)
+
+ - Frameworks de prompts são modelos que servem como guias para a
+   criação de prompts que otimizam a comunicação entre o usuários
+   e a IA.
+
+ - Eles ajudam a organizar as informações necessárias, orientam
+   o formato do texto e fornecem dicas sobre como solicitar respostas
+   mais precisas e detalhadas.
+
+ - Assim como frameworks em desenvolvimento de software, que ajudam
+   a organizar o código, frameworks de prompt ajudam a organizar a
+   lógica e a clareza das perguntas.
+
+
+Fraework STAR (Uma maneira de estruturar seus prompts)
+
+ Situação, Tarefa, Ação e Resultado
+
+ - Situação: Descreva a situação ou o cenário.
+
+ - Tarefa: Explique qual é a tarefa que você espera da IA.
+
+ - Ação: Diga como a IA deve realizar a tarefa, com detalhes.
+
+ - Resultado: Descreva o resultado final esperado.
+
+ Exemplo:
+
+   Situação: "Você é um assistente de escrita."
+
+   Tarefa: "Seu trabalho é revisar um texto."
+
+   Ação: "Revise o texto considerando gramática, clareza e coesão."
+
+   Resultado: "Forneça uma versão revisada, explicando as alterações feitas."
+
