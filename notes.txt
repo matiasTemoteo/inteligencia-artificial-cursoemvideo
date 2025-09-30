@@ -2348,3 +2348,111 @@ Quatro pilares para um prompt perfeito (Tudo aquilo que um bom prompt deve ter)
 
    - Por exemplos, ao enfatizar termos específicos repetidamente, a
      IA tende a captar melhor a essência da solicitação.
+
+
+Aplicando os Quatro Pialres para um prompt perfeito na prática
+
+ Exemplo 1 (Planejamento de Viagem)
+
+   "
+   # Objetivo Principal:
+
+   - Quero um roteiro de viagem de 7 dias pela Toscana, Itália,
+   focado em experiências gastronômicas autênticas e visitas
+   familiares.
+
+   # Como quero a resposta:
+
+   **Para cada dia**, forneça:
+
+   - Nome da cidade ou vila a ser visitada.
+   - Descrição breve das atrações gastronômicas locais.
+   - Nome e endereço de uma vinícola familiar recomendada.
+   - Sugestão de um prato típico para experimentar.
+   - Dicas de transporte entre os destinos.
+
+   # Alertas e Avisos:
+
+   - Evite incluir destinos turíticos muito populares ou comerciais.
+   - Foque em locais autênticos e pouco explorados.
+   - Certifique-se de que as vinícolas sugeridas estejam operacionais e aceitem visitantes.
+
+   # Chuva de Contexto:
+
+   - Viajantes interessados em cultura local, apreciadores de vinhos artesanais e culinária tradicional.
+   - Preferem interações pessoais com produtores locaos e experências forado circuito turístico convencional.
+
+   # Importante:
+
+   - Caso necessário, utilize oa acesso à internet para fazer essa pesquisa.
+   "
+
+ Exemplo 2 (Preparação para Exame de História)
+
+   "
+   # Objetivo proncipal:
+
+   - Preciso de um plano de estudo de 4 semanas para o exame final de 
+   História Moderna Europeia, cobrindo os principais eventos do século
+   XVIII ao XX.
+
+   # Como quero a resposta:
+
+   1. Divida o plano em **4 semana**, cada uma focando em um perído específico:
+      1.1. Semana 1: Século XVIII - Iluminismo e Revoluções.
+      1.2. Semana 2: Século XIX - Industrialização e Movimentos Nacionais.
+      1.3. Semana 3: Início do Século XX - Guerras Mundiais.
+      1.4. Semana 4: Pós-Guerra e União Europeia.
+   2. **Para cada seman**, forneça:
+     2.1. Tópicos principais a serem estudados.
+     2.2. Leituras recomendadas (livros e artigos).
+     2.3. Documentários ou filmes relevantes.
+     2.4. Sugestões de atividades práticas, como resumos ou debates.
+
+   # Alertas e Avisos:
+
+   - Evite materais desatualizados ou de fonte não acadêmicas.
+   - Priorize resursos reconhecidos e de credibilidade comprovada.
+   - Certifique-se de que as leituras recomendadas esejam disponíveis online ou em bibliotecas públicas.
+
+   # Chuva de contexto:
+
+   - Estudante universitário com conhecimento básico em História Europeia.
+   - Interesse em compreender conexões entre eventos históricos e contextos sociais e econômicos.
+   - Disponibilidade de 2 horas diárias para estudo.
+   "
+
+ Exemplo 3 (Desenvolvimento de uma Estratégia de Marketing Digital)
+
+   "
+   # Objetivo principal:
+
+   - Desenvolver um estratégia de marketing digital para lançar um
+   novo aplicativo de meditação voltado para profissionais com alta carga de trabalho.
+
+   # Como quero a resposta:
+
+   Elabore um plano que inclua:
+
+   - Análise de mercado e identificação do público-alvo.
+   - Propostas de canais de marketing a serem utilizados (Exemplos: redes sociais, e-mail marketing, parcerias).
+   - Sugestões de conteúdo e campanhas promocionais.
+   - Cronograma de implementação para os próximos 3 meses.
+   - Indicadores-chave de desempenho (KPIs) para monitorar o sucesso
+   das estratégias.
+
+   # Alertas e Avisos:
+
+   - Evite estratégias genéricas ou já saturadas no mercado.
+   - Não utilize práticas de marketing invasivas ou que possam
+   ser percebidas negativamente pelo público-alvo.
+   - Assegure-se de que todas as ações estejam em conformidade com as
+   regulamentações de privacidade e proteção de dados.
+
+   # Chuva de contexto:
+
+   - O aplicativo oferece sessões de meditação rápidas (5-10 minutos) adaptadas para horários de trabalho.
+   - Funcionalidades adicionais incluem lembretes personalizados e integração com calendários corporativos.
+   - Concorrentes diretos incluem aplicativos como Headspace e Calm.
+   - Orçamento de marketing limitado, exigindo foco em estratégias de alto impacto e baixo custo.
+   "
