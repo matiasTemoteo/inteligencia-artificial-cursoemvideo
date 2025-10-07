@@ -2456,3 +2456,93 @@ Aplicando os Quatro Pialres para um prompt perfeito na prática
    - Concorrentes diretos incluem aplicativos como Headspace e Calm.
    - Orçamento de marketing limitado, exigindo foco em estratégias de alto impacto e baixo custo.
    "
+
+Prompt Redação ENEM (Criando um prompt capaz de ajudar na correção de uma redação do ENEM)
+
+ ENEM (Exame Nacional Do Ensino Médio)
+
+   - Criado em 1998 pelo Ministério da Educação e Cultura (MEC) para  
+     testar o nível de aprendizado dos alunos que concluíram o ensino
+     médio no Brasil.
+
+   - O objetivo principal é ajudar o governo a trçar um parâmetro de
+     comparação sobre a qualidade do ensino médio brasileiro.
+
+   - Os resultados obtidos no ENEM também ajudam os estudantes a 
+     ingressar em universidades públicas ou a ganhar bolsas de
+     estudos em instituições particulares.
+
+   - Algumas universidades públicas de Portugal, como a Universidade
+     de Coimbra, aceitam a nota do ENEM como cirtério para alguns
+     cursos.
+
+   - Podem participar do ENEM os estudantes que estão concluindo o
+     último ano do ensino médio ou aqueles que já o concluíram.
+
+   - A nota de corte do ENEM é a nota mínima necessária para que
+     um candidato possa ser aprovado em um dos progrmas do governo de
+     acesso ao Ensino Superior, e podem variar de acrodo com a
+     instituição e/ou como o curso pretendido pelo candidato.
+
+ Redação do ENEM (Por que vamos focar logo na redação)
+
+   Provas do ENEM
+
+     - O exame é divido em:
+
+       * Quatro provas objetivas, com 45 questões de múltipla escolha
+       * Uma redação de caráter dissertativo argumentativo
+
+     - Na redação, o candidato deve apresentar as cinco competências
+       exigidas:
+
+       C1: Domínio da escrita formal
+       C2: Compreesão da proposta e desenvolvimento
+       C3: Seleção e organização de argumentos
+       C4: Coesão textual
+       C5: Proposta de intervenção
+
+ Estratégia Adotada (Como vamos criar isso?)
+
+   Passos: Pesquisa -> Coleta -> Prompt
+
+ Prompt
+
+   Fornecer a documentação oficial da Redação do ENEM.
+
+   1 - 
+
+   "
+   #Objetivo
+   Extrair tudo o que encontrar no arquivo anexado a este prompt sobre o **tema**, organizando-o de forma detalhada e estruturada.
+   Chamaremos o conteúdo gerado de 'REGRAS DE CORREÇÃO'.
+   # Instruções e Ações
+   ## 1. Papel e Contexto
+   - Atue como um especialista em extração de conteúdo, focando em capturar tudo sobre o **tema**, sem omissões.
+   ## 2. Conteúdo
+   - Extraia tudo sobre o **tema**, incluindo listas, tabelas, parágrafos e quaisquer outros elementos relevantes.
+   - Garanta que todo o conteúdo seja reproduzido fielmente e depois organizado para facilitar o seu entendimento.
+   - Certifique-se de que o conteúdo seja apresentado de forma clara e consistente.
+   - Gere o conteúdo da forma mais expandida possível considerando apenas os textos retirados do arquivo.
+   - Aplique pontuação, correções de ortografia e de gramática se necessário.
+   # Tema
+   Tudo o que encontrar sobre **Regras da avaliação da redação do ENEM**
+   "
+
+   2 - 
+
+   "
+   # Objetivo
+   Agora utilizando o mesmo arquivo extraia o que encontrar sobre o **tema**, organizando-o de forma detalhada e estruturada. Chamaremos o conteúdo gerado de 'REDAÇÕES NOTA 1000'.
+   # Instruções e Ações
+   ## 1. Papel e contexto
+   - Atue como um especialista em extração de conteúdo, focando em capturar tudo sobre o **tema**, sem omissões.
+   ## 2. Conteúdo
+   - Extraia tudo sobre o **tema**, incluindo listas, tabelas, parágrafos e quaisquer outros elementos relevantes.
+   - Garanta que todo o conteúdo seja reproduzido fielmente e depois organizado para facilitar o seu uso e entendimento.
+   - Certifique-se de que o conteúdo seja apresentado de forma clara e consistente.
+   - Gere o conteúdo da forma mais expandida possível considerando apenas os textos retirados do arquivo.
+   - Aplique pontuação, correções de ortografia e de gramática se necessário.
+   # Tema
+   Tudo o que encontrar sobre **AMOSTRA DE REDAÇÕES NOTA 1000 DO ENEM**
+   "
