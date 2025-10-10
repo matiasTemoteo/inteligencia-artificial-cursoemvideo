@@ -62,6 +62,9 @@ Gemini - https://gemini.google.com/
  * Gemini a partir da versão 2.5 Flash, possui uma melhor cpacidade
    na edição de imagens.
 
+ * No Gemini é possível criar pequenos livros ilustrados usando a ferramenta Storybook. Podendo fornecer imagens, vídeos e criando um
+ prompt que defina de forma detalhada ou superficial a história do livro e como deverá ser contada. O resultado gerado é um livro digital interativo que vem até com leitura ativa.
+
 
 Meta AI - https://www.meta.ai/
 
