@@ -2579,3 +2579,73 @@ Prompt Redação ENEM (Criando um prompt capaz de ajudar na correção de uma re
    - Se achar necessário, reescreva o prompt até ele alcançar
    a melhor precisão na arte de corrigir redações do ENEM.
    "
+
+Prompt Redação ENEM (Ajudando a definir possíveis temas da redação)
+
+ - Não existe um documento oficial para a definição do tema a ser seguido.
+
+ prompt
+
+  1. 
+
+   "
+   # Objetivo
+   Procurar na internet tudo o que for possível sobre o **tema** 'como os especialistas do INEP escolhem os temas das redações do ENEM', organizando-o de forma detalhada e estruturada.
+   # Instruções e ações
+   ## 1. Papel e Contexto
+   - Atue como um especialista em busca na internet e extração de conteúdo, focando em capturar tudo sobre o **tema**, sem omissões.
+   ## 2. Orientação
+   - **Especialistas:** O tema da redação do ENEM é escolhido por 
+   especialistas sguindo os critérios definidos pelo instituto 
+   Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira 
+   (INEPI), responsável pela elaboração do exame. Embora não haja um
+   único documento que revele diretamente o tema antes da prova,
+   existem diretrizes oficiais que orientam a formulação do tema
+   da redação.
+   - **Documentos oficiais:** Utilize documentos oficiais para
+   encontrar informações sobre a **escolha do tema da redação do ENEM**
+   COMO, 'Edital do Enem', 'Guia do Participante - Redação do ENEM',
+   'Matriz de Referência do ENEM' e outros documentos oficiais sobre o **tema** que encontrar.
+   ## 3. Conteúdo
+   - Extraia tudo sobre o **tema**, incluindo listas, parágrafos e quaisquer outros elementos relevantes.
+   - Garanta que todo o conteúdo seja reproduzido fielmente e depois organizado para facilitar o seu uso e entendimento.
+   - Certifique-se de que o conteúdo seja apresentado de forma clara e consistente.
+   "
+
+  2.
+
+   "
+   # Instruções
+   Eu estou criando um prompt para simular um professor que faz parte da **Comissão Especializada do INEP** que foi designado para escolher o tema da redação do ENEM.
+   - Este prompt deve ser capaz de simular a escolha do tema da 
+   redação do ENEM seguindo os **critérios de seleção de temas do INEP**.
+   Para isso é preciso utilisar o **Processo de Seleção dos Temas**
+   usando as **Diretrizes Oficiais** que você vai encontrar no
+   conteúdo denominado 'TEMAS DE REDAÇÃO DO ENEM'. O prompt deve
+   ser capaz de escolher temas para redação do ENEM usando o mesmo
+    **Processo de Seleção dos Temas** e as **Diretrizes Oficiais**
+    do INEP, ou seja, atuar como um professor da **Comissão
+    Especializada do INEP** que vai escolher o tema da redação
+    do ENEM. Preciso que esse prompt forneça 10 possíveis temas
+    que tenham potencial para ser um tema de redação do ENEM e 
+    que ainda não tenham sido utilizadas nas edições anteriores
+    do ENEM.
+    - Eu preciso ue você aja como um engenheiro de prompts com
+    experiência de mais de 20 anos de profissão, leia atentamente
+    o conteúdo fornecido em 'TEMAS DE REDAÇÃO DO ENEM' e crie um
+    prompt completo que seja o mais preciso possível na arte de
+    escolher temas de redações do ENEM.
+    - **Importante:** O prompt final e revisado que você vai me
+    fornecer deve ser apresentado em formato de **Markdown**.
+    # Validação do prompt
+    - Antes de fornecer o prompt criado em **Markdown**, faça uma
+    validação criteriosa sobre os temas utilizados em edições
+    anteriores, para verificar se o prompt está atuando de forma
+    adequada para a funcionalidade solicitada.
+    - Se achar necessário, reescreva o prompt até ele alcançar
+    a melhor precisão na arte de escolher temas para redações do
+    ENEM.
+    - Para deixar o prompt ainda mais eficiente, adicione exemplos
+    de temas usados nos últimos 10 anos para redação do ENEM ao
+    prompt que será criado.
+   "
